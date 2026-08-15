@@ -545,7 +545,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Java",
-                "last_commit": "2026-08-14T00:20:41Z",
+                "last_commit": "2026-08-14T22:18:08Z",
                 "owner": "sirixdb",
                 "repo": "sirix",
                 "stars": 1213
@@ -866,7 +866,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Java",
-                "last_commit": "2026-08-13T12:58:44Z",
+                "last_commit": "2026-08-14T09:41:07Z",
                 "owner": "strimzi",
                 "repo": "strimzi-kafka-bridge",
                 "stars": 338
@@ -894,7 +894,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Kotlin",
-                "last_commit": "2026-08-12T04:32:02Z",
+                "last_commit": "2026-08-14T18:59:12Z",
                 "owner": "viartemev",
                 "repo": "rabbitmq-kotlin",
                 "stars": 130
@@ -1240,7 +1240,7 @@
                 "last_commit": "2026-07-16T19:48:59Z",
                 "owner": "cloudevents",
                 "repo": "sdk-java",
-                "stars": 443
+                "stars": 444
               }
             }
           ]
@@ -1296,7 +1296,7 @@
             "last_commit": "2026-08-13T09:55:56Z",
             "owner": "eclipse-vertx",
             "repo": "vert.x",
-            "stars": 14685
+            "stars": 14682
           }
         },
         {
@@ -1886,7 +1886,7 @@
             "last_commit": "2026-07-08T06:46:06Z",
             "owner": "resilience4j",
             "repo": "resilience4j",
-            "stars": 10740
+            "stars": 10742
           }
         },
         {
@@ -1900,7 +1900,7 @@
             "last_commit": "2025-12-28T01:41:28Z",
             "owner": "failsafe-lib",
             "repo": "failsafe",
-            "stars": 4310
+            "stars": 4309
           }
         },
         {
@@ -2367,10 +2367,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-14T03:41:39Z",
+            "last_commit": "2026-08-14T05:43:33Z",
             "owner": "OpenAPITools",
             "repo": "openapi-generator",
-            "stars": 26670
+            "stars": 26672
           }
         },
         {
@@ -2513,7 +2513,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-11T02:23:01Z",
+            "last_commit": "2026-08-14T06:20:03Z",
             "owner": "swisspost",
             "repo": "vertx-redisques",
             "stars": 14
@@ -2945,7 +2945,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-11T22:51:04Z",
+            "last_commit": "2026-08-14T08:52:44Z",
             "owner": "zero88",
             "repo": "scheduler.x",
             "stars": 14
@@ -3079,7 +3079,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T04:12:45.296Z",
+    "last_updated": "2026-08-15T02:55:37.686Z",
     "original_repository": "vert-x3/vertx-awesome",
     "original_repository_sha": "6978ef828da5cec96fad20e0f146b06ad35d45d9",
     "enhanced_repository": "enhansome/vertx-enhansome",
