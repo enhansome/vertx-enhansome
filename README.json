@@ -545,7 +545,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Java",
-                "last_commit": "2026-08-14T22:18:08Z",
+                "last_commit": "2026-08-15T23:18:00Z",
                 "owner": "sirixdb",
                 "repo": "sirix",
                 "stars": 1213
@@ -699,7 +699,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Java",
-                "last_commit": "2026-08-08T21:31:10Z",
+                "last_commit": "2026-08-15T07:18:27Z",
                 "owner": "romanbsd",
                 "repo": "neo4j-java-driver-vertx",
                 "stars": 0
@@ -1296,7 +1296,7 @@
             "last_commit": "2026-08-13T09:55:56Z",
             "owner": "eclipse-vertx",
             "repo": "vert.x",
-            "stars": 14682
+            "stars": 14683
           }
         },
         {
@@ -1324,7 +1324,7 @@
             "last_commit": "2026-08-07T07:13:56Z",
             "owner": "vert-x3",
             "repo": "vertx-lang-kotlin",
-            "stars": 301
+            "stars": 302
           }
         },
         {
@@ -1456,7 +1456,7 @@
             "last_commit": "2026-08-07T07:13:56Z",
             "owner": "vert-x3",
             "repo": "vertx-lang-kotlin",
-            "stars": 301
+            "stars": 302
           }
         },
         {
@@ -1886,7 +1886,7 @@
             "last_commit": "2026-07-08T06:46:06Z",
             "owner": "resilience4j",
             "repo": "resilience4j",
-            "stars": 10742
+            "stars": 10744
           }
         },
         {
@@ -2367,10 +2367,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-14T05:43:33Z",
+            "last_commit": "2026-08-15T14:40:27Z",
             "owner": "OpenAPITools",
             "repo": "openapi-generator",
-            "stars": 26672
+            "stars": 26674
           }
         },
         {
@@ -3079,7 +3079,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T02:55:37.686Z",
+    "last_updated": "2026-08-16T03:03:51.998Z",
     "original_repository": "vert-x3/vertx-awesome",
     "original_repository_sha": "6978ef828da5cec96fad20e0f146b06ad35d45d9",
     "enhanced_repository": "enhansome/vertx-enhansome",
