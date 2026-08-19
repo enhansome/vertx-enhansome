@@ -545,7 +545,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Java",
-                "last_commit": "2026-08-17T11:03:00Z",
+                "last_commit": "2026-08-18T19:55:51Z",
                 "owner": "sirixdb",
                 "repo": "sirix",
                 "stars": 1214
@@ -2367,10 +2367,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-18T02:26:01Z",
+            "last_commit": "2026-08-18T16:36:57Z",
             "owner": "OpenAPITools",
             "repo": "openapi-generator",
-            "stars": 26677
+            "stars": 26679
           }
         },
         {
@@ -3079,7 +3079,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T02:59:15.307Z",
+    "last_updated": "2026-08-19T03:01:20.215Z",
     "original_repository": "vert-x3/vertx-awesome",
     "original_repository_sha": "6978ef828da5cec96fad20e0f146b06ad35d45d9",
     "enhanced_repository": "enhansome/vertx-enhansome",
