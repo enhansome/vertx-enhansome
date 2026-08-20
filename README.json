@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 130191297,
             "language": "Java",
             "last_commit": "2026-07-24T13:25:45Z",
             "owner": "reactiverse",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 183470050,
             "language": "Groovy",
             "last_commit": "2020-06-18T20:19:46Z",
             "owner": "bulivlad",
@@ -35,7 +37,7 @@
       "title": "Build tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -44,6 +46,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26628954,
             "language": "Java",
             "last_commit": "2026-08-10T16:25:17Z",
             "owner": "vert-x3",
@@ -58,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23338118,
             "language": "Java",
             "last_commit": "2018-01-18T19:02:18Z",
             "owner": "advantageous",
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 117033346,
             "language": "Kotlin",
             "last_commit": "2024-02-25T07:43:38Z",
             "owner": "cloudoptlab",
@@ -86,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7109729,
             "language": "Ruby",
             "last_commit": "2017-01-04T10:38:44Z",
             "owner": "isaiah",
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 299617165,
             "language": "Java",
             "last_commit": "2023-12-05T22:39:57Z",
             "owner": "AppsFlyer",
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 87552367,
             "language": "Java",
             "last_commit": "2026-06-21T16:07:37Z",
             "owner": "zandero",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41204568,
             "language": "Kotlin",
             "last_commit": "2018-11-15T18:16:49Z",
             "owner": "kohesive",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9239473,
             "language": "Java",
             "last_commit": "2021-10-28T02:09:50Z",
             "owner": "ef-labs",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 60755660,
             "language": null,
             "last_commit": "2022-03-28T18:11:22Z",
             "owner": "Knotx",
@@ -170,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 441092623,
             "language": "Java",
             "last_commit": "2025-12-23T10:14:15Z",
             "owner": "dream-horizon-org",
@@ -184,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 123822761,
             "language": "Java",
             "last_commit": "2025-06-07T07:36:39Z",
             "owner": "mcollovati",
@@ -198,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10320995,
             "language": "Java",
             "last_commit": "2026-02-24T17:59:32Z",
             "owner": "Atmosphere",
@@ -212,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 95486262,
             "language": "Java",
             "last_commit": "2026-08-08T13:38:13Z",
             "owner": "GreenfieldTech",
@@ -226,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16709082,
             "language": "Java",
             "last_commit": "2026-08-03T14:19:57Z",
             "owner": "swisspost",
@@ -240,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 176669253,
             "language": "Java",
             "last_commit": "2022-09-01T23:04:12Z",
             "owner": "lukehutch",
@@ -254,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26717737,
             "language": "Java",
             "last_commit": "2020-10-13T02:25:00Z",
             "owner": "spriet2000",
@@ -268,6 +286,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 808025737,
             "language": "Java",
             "last_commit": "2026-08-12T05:11:40Z",
             "owner": "scx567888",
@@ -279,7 +298,7 @@
       "title": "Web Frameworks"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -288,6 +307,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27583882,
             "language": "Java",
             "last_commit": "2026-08-10T15:39:09Z",
             "owner": "eclipse-vertx",
@@ -302,6 +322,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27583882,
             "language": "Java",
             "last_commit": "2026-08-10T15:39:09Z",
             "owner": "eclipse-vertx",
@@ -316,6 +337,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27583882,
             "language": "Java",
             "last_commit": "2026-08-10T15:39:09Z",
             "owner": "eclipse-vertx",
@@ -330,6 +352,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27583882,
             "language": "Java",
             "last_commit": "2026-08-10T15:39:09Z",
             "owner": "eclipse-vertx",
@@ -344,6 +367,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27583882,
             "language": "Java",
             "last_commit": "2026-08-10T15:39:09Z",
             "owner": "eclipse-vertx",
@@ -358,6 +382,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19176652,
             "language": "Java",
             "last_commit": "2026-08-07T17:13:35Z",
             "owner": "pac4j",
@@ -372,6 +397,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 594065633,
             "language": "Java",
             "last_commit": "2026-08-07T07:14:56Z",
             "owner": "vert-x3",
@@ -392,6 +418,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38103129,
             "language": "HTML",
             "last_commit": "2018-08-23T16:29:15Z",
             "owner": "BraintagsGmbH",
@@ -406,6 +433,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 94186558,
             "language": "Java",
             "last_commit": "2017-10-29T03:00:19Z",
             "owner": "guoyu511",
@@ -425,6 +453,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 89879438,
                 "language": "Java",
                 "last_commit": "2026-08-13T19:30:38Z",
                 "owner": "eclipse-vertx",
@@ -439,6 +468,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 72728706,
                 "language": "Java",
                 "last_commit": "2024-01-11T11:28:15Z",
                 "owner": "jklingsporn",
@@ -453,6 +483,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 26814908,
                 "language": "Java",
                 "last_commit": "2026-08-10T11:53:40Z",
                 "owner": "vert-x3",
@@ -467,6 +498,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 27534295,
                 "language": "Java",
                 "last_commit": "2023-05-12T08:58:07Z",
                 "owner": "vert-x3",
@@ -481,6 +513,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 184532002,
                 "language": "Java",
                 "last_commit": "2019-07-19T11:41:10Z",
                 "owner": "vietj",
@@ -495,6 +528,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 16630721,
                 "language": "Java",
                 "last_commit": "2026-08-12T07:12:40Z",
                 "owner": "susom",
@@ -509,6 +543,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 343665974,
                 "language": "Java",
                 "last_commit": "2026-08-07T08:44:54Z",
                 "owner": "zero88",
@@ -523,6 +558,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 491117246,
                 "language": "Kotlin",
                 "last_commit": "2026-07-25T22:51:16Z",
                 "owner": "huanshankeji",
@@ -544,8 +580,9 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 4604367,
                 "language": "Java",
-                "last_commit": "2026-08-18T19:55:51Z",
+                "last_commit": "2026-08-19T21:13:40Z",
                 "owner": "sirixdb",
                 "repo": "sirix",
                 "stars": 1214
@@ -558,6 +595,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 27546391,
                 "language": "Java",
                 "last_commit": "2026-08-11T06:12:29Z",
                 "owner": "vert-x3",
@@ -572,6 +610,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 27482483,
                 "language": "Java",
                 "last_commit": "2026-08-10T14:47:20Z",
                 "owner": "vert-x3",
@@ -586,6 +625,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 16778923,
                 "language": "Java",
                 "last_commit": "2023-03-19T12:20:05Z",
                 "owner": "ef-labs",
@@ -600,6 +640,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 144744238,
                 "language": "Java",
                 "last_commit": "2026-08-10T11:43:49Z",
                 "owner": "vert-x3",
@@ -614,6 +655,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 366925238,
                 "language": "Java",
                 "last_commit": "2025-12-22T13:17:02Z",
                 "owner": "dream-horizon-org",
@@ -628,6 +670,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 186595740,
                 "language": "Java",
                 "last_commit": "2022-02-11T00:24:28Z",
                 "owner": "pjgg",
@@ -642,6 +685,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 57416385,
                 "language": "Java",
                 "last_commit": "2017-11-21T14:55:03Z",
                 "owner": "cstamas",
@@ -656,6 +700,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 59748607,
                 "language": "Java",
                 "last_commit": "2016-05-27T21:10:20Z",
                 "owner": "etourdot",
@@ -670,6 +715,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 82293201,
                 "language": "Java",
                 "last_commit": "2017-02-25T12:17:35Z",
                 "owner": "cstamas",
@@ -684,6 +730,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 138037290,
                 "language": "Java",
                 "last_commit": "2019-01-14T07:52:40Z",
                 "owner": "aesteve",
@@ -698,6 +745,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1247501096,
                 "language": "Java",
                 "last_commit": "2026-08-15T07:18:27Z",
                 "owner": "romanbsd",
@@ -712,6 +760,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 891155400,
                 "language": "Java",
                 "last_commit": "2024-11-23T22:04:39Z",
                 "owner": "imrafaelmerino",
@@ -725,7 +774,7 @@
       "title": "Database Clients"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "group",
@@ -739,6 +788,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 48291052,
                 "language": "Java",
                 "last_commit": "2018-11-05T08:38:09Z",
                 "owner": "mariomac",
@@ -753,6 +803,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 35103238,
                 "language": "Java",
                 "last_commit": "2019-12-04T10:06:19Z",
                 "owner": "aesteve",
@@ -774,6 +825,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 30866500,
                 "language": "Java",
                 "last_commit": "2026-08-07T07:15:12Z",
                 "owner": "vert-x3",
@@ -795,6 +847,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 218804581,
                 "language": "Java",
                 "last_commit": "2021-07-09T15:33:59Z",
                 "owner": "openapi4j",
@@ -809,6 +862,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 53220610,
                 "language": "Java",
                 "last_commit": "2022-02-27T10:54:51Z",
                 "owner": "vietj",
@@ -823,6 +877,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 848708696,
                 "language": "Java",
                 "last_commit": "2024-11-23T21:56:32Z",
                 "owner": "imrafaelmerino",
@@ -844,6 +899,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 239981668,
                 "language": "Java",
                 "last_commit": "2021-06-07T18:41:13Z",
                 "owner": "OneManCrew",
@@ -865,6 +921,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 54389337,
                 "language": "Java",
                 "last_commit": "2026-08-14T09:41:07Z",
                 "owner": "strimzi",
@@ -879,6 +936,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 69547915,
                 "language": "Java",
                 "last_commit": "2026-08-11T16:17:17Z",
                 "owner": "vert-x3",
@@ -893,8 +951,9 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 164432364,
                 "language": "Kotlin",
-                "last_commit": "2026-08-14T18:59:12Z",
+                "last_commit": "2026-08-19T18:15:51Z",
                 "owner": "viartemev",
                 "repo": "rabbitmq-kotlin",
                 "stars": 130
@@ -907,6 +966,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 75084353,
                 "language": "Java",
                 "last_commit": "2026-08-10T14:00:15Z",
                 "owner": "vert-x3",
@@ -921,6 +981,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 75084353,
                 "language": "Java",
                 "last_commit": "2026-08-10T14:00:15Z",
                 "owner": "vert-x3",
@@ -935,6 +996,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 29024996,
                 "language": "Java",
                 "last_commit": "2026-08-07T07:15:15Z",
                 "owner": "vert-x3",
@@ -949,6 +1011,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 40484506,
                 "language": "Java",
                 "last_commit": "2026-08-07T07:15:30Z",
                 "owner": "vert-x3",
@@ -963,6 +1026,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 40741072,
                 "language": "Java",
                 "last_commit": "2016-03-21T22:50:05Z",
                 "owner": "cyngn",
@@ -977,6 +1041,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 56456878,
                 "language": "Java",
                 "last_commit": "2026-01-15T22:52:47Z",
                 "owner": "dano",
@@ -991,6 +1056,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 44739364,
                 "language": "Java",
                 "last_commit": "2026-05-05T00:11:07Z",
                 "owner": "vert-x3",
@@ -1005,6 +1071,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 323297071,
                 "language": "Java",
                 "last_commit": "2021-04-03T21:50:43Z",
                 "owner": "i22-digitalagentur",
@@ -1019,6 +1086,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 63057895,
                 "language": "Java",
                 "last_commit": "2023-12-15T02:31:43Z",
                 "owner": "TextBack",
@@ -1040,6 +1108,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 55776486,
                 "language": "Java",
                 "last_commit": "2021-01-26T08:18:17Z",
                 "owner": "weld",
@@ -1054,6 +1123,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 26169149,
                 "language": "Java",
                 "last_commit": "2023-05-12T08:58:37Z",
                 "owner": "vert-x3",
@@ -1075,6 +1145,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 36451474,
                 "language": "JavaScript",
                 "last_commit": "2017-10-23T03:24:04Z",
                 "owner": "jmusacchio",
@@ -1096,6 +1167,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 116847882,
                 "language": "Java",
                 "last_commit": "2026-08-07T07:14:11Z",
                 "owner": "vert-x3",
@@ -1110,6 +1182,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 27481624,
                 "language": "Java",
                 "last_commit": "2026-08-07T07:14:08Z",
                 "owner": "vert-x3",
@@ -1124,6 +1197,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 34707223,
                 "language": "Java",
                 "last_commit": "2016-03-21T22:59:36Z",
                 "owner": "cyngn",
@@ -1138,6 +1212,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 33942471,
                 "language": "Java",
                 "last_commit": "2015-11-14T13:30:28Z",
                 "owner": "tsegismont",
@@ -1152,6 +1227,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 39458869,
                 "language": "Java",
                 "last_commit": "2015-09-15T21:05:18Z",
                 "owner": "cyngn",
@@ -1173,6 +1249,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 54421351,
                 "language": "Java",
                 "last_commit": "2016-10-03T17:54:38Z",
                 "owner": "kennedyoliveira",
@@ -1194,6 +1271,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 209055185,
                 "language": null,
                 "last_commit": "2019-09-17T13:01:58Z",
                 "owner": "wem",
@@ -1215,6 +1293,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 78532228,
                 "language": "Java",
                 "last_commit": "2020-10-12T20:55:17Z",
                 "owner": "jklingsporn",
@@ -1236,6 +1315,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 149663208,
                 "language": "Java",
                 "last_commit": "2026-07-16T19:48:59Z",
                 "owner": "cloudevents",
@@ -1249,7 +1329,7 @@
       "title": "Integration"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1258,6 +1338,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52609528,
             "language": "Java",
             "last_commit": "2026-08-17T10:59:25Z",
             "owner": "swisspost",
@@ -1272,6 +1353,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 110141650,
             "language": "Java",
             "last_commit": "2026-01-15T22:52:41Z",
             "owner": "vinscom",
@@ -1283,7 +1365,7 @@
       "title": "Middleware"
     },
     {
-      "description": "Programming language support for Vert.x",
+      "description": "Programming language support for Vert.x\nLanguage extensions",
       "items": [
         {
           "node_type": "item",
@@ -1292,6 +1374,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1911523,
             "language": "Java",
             "last_commit": "2026-08-17T20:31:36Z",
             "owner": "eclipse-vertx",
@@ -1306,6 +1389,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 125225914,
             "language": "Java",
             "last_commit": "2025-12-19T22:50:39Z",
             "owner": "reactiverse",
@@ -1320,6 +1404,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72456215,
             "language": "Kotlin",
             "last_commit": "2026-08-07T07:13:56Z",
             "owner": "vert-x3",
@@ -1334,6 +1419,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26167102,
             "language": "Scala",
             "last_commit": "2025-10-14T01:10:47Z",
             "owner": "reactiverse",
@@ -1348,6 +1434,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21415560,
             "language": "JavaScript",
             "last_commit": "2024-10-17T16:29:35Z",
             "owner": "vert-x3",
@@ -1362,6 +1449,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29028655,
             "language": "Ruby",
             "last_commit": "2026-04-10T22:42:19Z",
             "owner": "vert-x3",
@@ -1376,6 +1464,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21979411,
             "language": "Java",
             "last_commit": "2026-08-07T07:13:53Z",
             "owner": "vert-x3",
@@ -1390,6 +1479,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 38437210,
             "language": "Java",
             "last_commit": "2021-06-08T20:36:57Z",
             "owner": "vert-x3",
@@ -1404,6 +1494,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 123551916,
             "language": "Java",
             "last_commit": "2022-01-05T01:23:30Z",
             "owner": "vert-x-cn",
@@ -1418,6 +1509,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 26467642,
             "language": "Java",
             "last_commit": "2016-05-13T20:39:06Z",
             "owner": "vert-x3",
@@ -1429,7 +1521,7 @@
       "title": "Language Support"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1438,6 +1530,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23338118,
             "language": "Java",
             "last_commit": "2018-01-18T19:02:18Z",
             "owner": "advantageous",
@@ -1452,6 +1545,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72456215,
             "language": "Kotlin",
             "last_commit": "2026-08-07T07:13:56Z",
             "owner": "vert-x3",
@@ -1466,6 +1560,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26966705,
             "language": "Java",
             "last_commit": "2026-08-07T07:14:03Z",
             "owner": "vert-x3",
@@ -1480,6 +1575,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36552538,
             "language": "Java",
             "last_commit": "2025-05-02T08:23:47Z",
             "owner": "vert-x3",
@@ -1494,6 +1590,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27482840,
             "language": "Java",
             "last_commit": "2026-08-07T07:14:06Z",
             "owner": "vert-x3",
@@ -1508,6 +1605,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39918400,
             "language": "Java",
             "last_commit": "2016-03-21T22:52:37Z",
             "owner": "cyngn",
@@ -1522,6 +1620,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 848708696,
             "language": "Java",
             "last_commit": "2024-11-23T21:56:32Z",
             "owner": "imrafaelmerino",
@@ -1542,6 +1641,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 75275285,
             "language": "Java",
             "last_commit": "2019-05-16T07:18:39Z",
             "owner": "nielsbaloe",
@@ -1556,6 +1656,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53195986,
             "language": "Go",
             "last_commit": "2018-03-15T15:59:16Z",
             "owner": "jponge",
@@ -1570,6 +1671,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48456832,
             "language": "Java",
             "last_commit": "2017-08-29T09:04:00Z",
             "owner": "abdlquadri",
@@ -1584,6 +1686,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39237126,
             "language": "Java",
             "last_commit": "2018-11-15T23:29:39Z",
             "owner": "saffron-technology",
@@ -1598,6 +1701,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37644817,
             "language": "C++",
             "last_commit": "2017-04-10T15:41:38Z",
             "owner": "julien3",
@@ -1612,6 +1716,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 175656056,
             "language": "Elixir",
             "last_commit": "2024-12-08T16:41:11Z",
             "owner": "PharosProduction",
@@ -1626,6 +1731,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 147809424,
             "language": "Java",
             "last_commit": "2025-06-17T11:37:09Z",
             "owner": "danielstieger",
@@ -1640,6 +1746,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 60855572,
             "language": "Python",
             "last_commit": "2016-08-05T13:56:20Z",
             "owner": "jaymine",
@@ -1654,6 +1761,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 95305484,
             "language": "Smalltalk",
             "last_commit": "2017-07-03T13:58:42Z",
             "owner": "mumez",
@@ -1668,6 +1776,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 273219640,
             "language": "Rust",
             "last_commit": "2023-01-09T13:01:31Z",
             "owner": "aesteve",
@@ -1682,6 +1791,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61745700,
             "language": "C#",
             "last_commit": "2016-12-16T04:05:39Z",
             "owner": "jaymine",
@@ -1696,6 +1806,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58749402,
             "language": "Swift",
             "last_commit": "2018-04-24T14:50:30Z",
             "owner": "tobias",
@@ -1710,6 +1821,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63805151,
             "language": "C",
             "last_commit": "2016-08-09T16:53:38Z",
             "owner": "jaymine",
@@ -1724,6 +1836,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62604357,
             "language": "Go",
             "last_commit": "2017-02-06T20:52:07Z",
             "owner": "cinterloper",
@@ -1744,6 +1857,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26684056,
             "language": "Java",
             "last_commit": "2026-08-07T07:14:46Z",
             "owner": "vert-x3",
@@ -1758,6 +1872,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32725442,
             "language": "Java",
             "last_commit": "2026-08-07T07:14:54Z",
             "owner": "vert-x3",
@@ -1772,6 +1887,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52444045,
             "language": "Java",
             "last_commit": "2026-08-07T07:14:51Z",
             "owner": "vert-x3",
@@ -1786,6 +1902,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 169048532,
             "language": "Java",
             "last_commit": "2023-12-05T22:20:17Z",
             "owner": "reactiverse",
@@ -1800,6 +1917,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 69944043,
             "language": "Java",
             "last_commit": "2026-08-07T07:14:49Z",
             "owner": "vert-x3",
@@ -1814,6 +1932,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 30292189,
             "language": "Java",
             "last_commit": "2018-08-01T22:02:03Z",
             "owner": "vert-x3",
@@ -1825,7 +1944,7 @@
       "title": "Cluster Managers"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1834,6 +1953,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 158650975,
             "language": "Java",
             "last_commit": "2023-09-11T07:16:33Z",
             "owner": "reactiverse",
@@ -1848,6 +1968,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 36496125,
             "language": "Shell",
             "last_commit": "2018-03-07T07:50:47Z",
             "owner": "vert-x3",
@@ -1862,6 +1983,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 36496107,
             "language": "Shell",
             "last_commit": "2016-10-13T09:58:35Z",
             "owner": "vert-x3",
@@ -1873,7 +1995,7 @@
       "title": "Cloud Support"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1882,11 +2004,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36793280,
             "language": "Java",
             "last_commit": "2026-07-08T06:46:06Z",
             "owner": "resilience4j",
             "repo": "resilience4j",
-            "stars": 10747
+            "stars": 10748
           }
         },
         {
@@ -1896,6 +2019,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38279457,
             "language": "Java",
             "last_commit": "2025-12-28T01:41:28Z",
             "owner": "failsafe-lib",
@@ -1910,6 +2034,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 91674936,
             "language": "Java",
             "last_commit": "2026-07-01T07:32:28Z",
             "owner": "apache",
@@ -1924,6 +2049,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54370839,
             "language": "Java",
             "last_commit": "2026-08-07T07:14:36Z",
             "owner": "vert-x3",
@@ -1938,6 +2064,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54370839,
             "language": "Java",
             "last_commit": "2026-08-07T07:14:36Z",
             "owner": "vert-x3",
@@ -1952,6 +2079,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54370839,
             "language": "Java",
             "last_commit": "2026-08-07T07:14:36Z",
             "owner": "vert-x3",
@@ -1966,6 +2094,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54370839,
             "language": "Java",
             "last_commit": "2026-08-07T07:14:36Z",
             "owner": "vert-x3",
@@ -1980,6 +2109,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54370839,
             "language": "Java",
             "last_commit": "2026-08-07T07:14:36Z",
             "owner": "vert-x3",
@@ -1994,6 +2124,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 134901064,
             "language": "Java",
             "last_commit": "2026-08-11T07:12:53Z",
             "owner": "smallrye",
@@ -2008,6 +2139,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59482892,
             "language": "Java",
             "last_commit": "2026-08-13T18:50:11Z",
             "owner": "vert-x3",
@@ -2022,6 +2154,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63377572,
             "language": "Java",
             "last_commit": "2021-11-12T06:18:51Z",
             "owner": "engagingspaces",
@@ -2036,6 +2169,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 114892199,
             "language": "Kotlin",
             "last_commit": "2019-10-13T09:55:08Z",
             "owner": "mikand13",
@@ -2047,7 +2181,7 @@
       "title": "Microservices"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2056,6 +2190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11829082,
             "language": "Java",
             "last_commit": "2016-11-18T17:53:43Z",
             "owner": "ef-labs",
@@ -2070,6 +2205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20576483,
             "language": "Java",
             "last_commit": "2016-11-07T20:33:50Z",
             "owner": "ef-labs",
@@ -2081,7 +2217,7 @@
       "title": "Search Engines"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2090,6 +2226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25202458,
             "language": "Java",
             "last_commit": "2026-08-07T07:14:24Z",
             "owner": "vert-x3",
@@ -2104,6 +2241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23218278,
             "language": "Java",
             "last_commit": "2026-08-07T07:14:26Z",
             "owner": "vert-x3",
@@ -2118,6 +2256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34790639,
             "language": "Java",
             "last_commit": "2026-08-07T07:14:29Z",
             "owner": "vert-x3",
@@ -2132,6 +2271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43333140,
             "language": "Java",
             "last_commit": "2015-12-17T19:33:43Z",
             "owner": "mellster2012",
@@ -2146,6 +2286,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47260703,
             "language": "Java",
             "last_commit": "2017-03-30T08:00:10Z",
             "owner": "cstamas",
@@ -2157,7 +2298,7 @@
       "title": "Service Factory"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2166,6 +2307,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 120518773,
             "language": "Java",
             "last_commit": "2020-12-18T08:47:08Z",
             "owner": "jponge",
@@ -2180,6 +2322,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 107288508,
             "language": "Java",
             "last_commit": "2018-10-08T17:19:06Z",
             "owner": "Finovertech",
@@ -2191,7 +2334,7 @@
       "title": "Config"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2200,6 +2343,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23338118,
             "language": "Java",
             "last_commit": "2018-01-18T19:02:18Z",
             "owner": "advantageous",
@@ -2214,6 +2358,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12255838,
             "language": "Java",
             "last_commit": "2019-11-02T02:35:17Z",
             "owner": "ef-labs",
@@ -2228,6 +2373,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17456242,
             "language": "Java",
             "last_commit": "2019-04-03T17:04:46Z",
             "owner": "amoAHCP",
@@ -2242,6 +2388,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9239163,
             "language": "Java",
             "last_commit": "2021-10-28T02:09:22Z",
             "owner": "ef-labs",
@@ -2256,6 +2403,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41862580,
             "language": "Java",
             "last_commit": "2026-01-26T21:40:24Z",
             "owner": "rworsnop",
@@ -2270,6 +2418,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72679543,
             "language": "Java",
             "last_commit": "2025-03-23T21:51:22Z",
             "owner": "juanavelez",
@@ -2284,6 +2433,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47260703,
             "language": "Java",
             "last_commit": "2017-03-30T08:00:10Z",
             "owner": "cstamas",
@@ -2298,6 +2448,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 104414534,
             "language": "Java",
             "last_commit": "2022-01-04T16:31:31Z",
             "owner": "vinscom",
@@ -2309,7 +2460,7 @@
       "title": "Dependency Injection"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2318,6 +2469,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 112714184,
             "language": "Java",
             "last_commit": "2026-08-07T07:14:01Z",
             "owner": "eclipse-vertx",
@@ -2332,6 +2484,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29251724,
             "language": "JavaScript",
             "last_commit": "2026-08-07T07:13:58Z",
             "owner": "vert-x3",
@@ -2346,6 +2499,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 243788128,
             "language": "Java",
             "last_commit": "2026-08-07T11:54:23Z",
             "owner": "NoEnv",
@@ -2357,7 +2511,7 @@
       "title": "Testing"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2366,11 +2520,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 133134007,
             "language": "Java",
-            "last_commit": "2026-08-18T16:36:57Z",
+            "last_commit": "2026-08-19T16:10:47Z",
             "owner": "OpenAPITools",
             "repo": "openapi-generator",
-            "stars": 26679
+            "stars": 26682
           }
         },
         {
@@ -2380,6 +2535,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44138404,
             "language": "Java",
             "last_commit": "2016-02-24T23:32:39Z",
             "owner": "dazraf",
@@ -2394,6 +2550,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39257280,
             "language": "Java",
             "last_commit": "2026-08-10T15:02:42Z",
             "owner": "vert-x3",
@@ -2408,6 +2565,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84849510,
             "language": "Java",
             "last_commit": "2026-08-07T07:14:14Z",
             "owner": "eclipse-vertx",
@@ -2422,6 +2580,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 125917067,
             "language": "JavaScript",
             "last_commit": "2018-03-20T09:27:53Z",
             "owner": "ybonnel",
@@ -2436,6 +2595,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70245499,
             "language": null,
             "last_commit": "2019-11-29T11:40:30Z",
             "owner": "pmlopes",
@@ -2447,7 +2607,7 @@
       "title": "Development Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2456,6 +2616,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 69255078,
             "language": "Java",
             "last_commit": "2022-10-04T23:43:11Z",
             "owner": "pitchpoint-solutions",
@@ -2470,6 +2631,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45360786,
             "language": "Java",
             "last_commit": "2025-06-05T13:08:47Z",
             "owner": "reactiverse",
@@ -2484,6 +2646,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 120518773,
             "language": "Java",
             "last_commit": "2020-12-18T08:47:08Z",
             "owner": "jponge",
@@ -2498,6 +2661,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 100943978,
             "language": "Java",
             "last_commit": "2019-10-25T08:51:27Z",
             "owner": "maxamel",
@@ -2512,6 +2676,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16709089,
             "language": "Java",
             "last_commit": "2026-08-17T01:41:51Z",
             "owner": "swisspost",
@@ -2526,6 +2691,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 848707551,
             "language": "Java",
             "last_commit": "2024-11-23T21:25:20Z",
             "owner": "imrafaelmerino",
@@ -2537,7 +2703,7 @@
       "title": "Miscellaneous"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2546,8 +2712,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 138207223,
             "language": "HTML",
-            "last_commit": "2026-08-17T01:38:18Z",
+            "last_commit": "2026-08-19T23:55:48Z",
             "owner": "knative",
             "repo": "docs",
             "stars": 5079
@@ -2560,6 +2727,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31272860,
             "language": "Java",
             "last_commit": "2026-05-26T08:19:59Z",
             "owner": "vert-x3",
@@ -2574,6 +2742,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 57096675,
             "language": "Java",
             "last_commit": "2018-12-13T19:50:35Z",
             "owner": "sczyh30",
@@ -2588,6 +2757,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 57055214,
             "language": "Java",
             "last_commit": "2020-05-23T22:45:21Z",
             "owner": "sczyh30",
@@ -2602,6 +2772,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 57096514,
             "language": "Java",
             "last_commit": "2018-07-10T20:18:49Z",
             "owner": "sczyh30",
@@ -2616,6 +2787,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34815558,
             "language": "Java",
             "last_commit": "2020-05-24T17:28:29Z",
             "owner": "aesteve",
@@ -2630,6 +2802,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 91769036,
             "language": "Kotlin",
             "last_commit": "2026-01-26T21:48:23Z",
             "owner": "crabzilla",
@@ -2644,6 +2817,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 79252628,
             "language": "Java",
             "last_commit": "2026-07-23T15:43:49Z",
             "owner": "tsegismont",
@@ -2658,6 +2832,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49668889,
             "language": "Java",
             "last_commit": "2016-03-14T20:46:29Z",
             "owner": "advantageous",
@@ -2672,6 +2847,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 107751537,
             "language": "Java",
             "last_commit": "2021-11-07T01:03:22Z",
             "owner": "BillyYccc",
@@ -2686,6 +2862,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78658242,
             "language": "HTML",
             "last_commit": "2025-10-22T19:39:29Z",
             "owner": "gentics",
@@ -2700,6 +2877,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84458339,
             "language": "Java",
             "last_commit": "2017-03-23T07:37:34Z",
             "owner": "yyunikov",
@@ -2714,6 +2892,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59231914,
             "language": "Kotlin",
             "last_commit": "2016-05-23T21:06:06Z",
             "owner": "aesteve",
@@ -2728,6 +2907,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52199545,
             "language": "Java",
             "last_commit": "2017-04-27T07:13:35Z",
             "owner": "aesteve",
@@ -2742,6 +2922,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32604130,
             "language": "Java",
             "last_commit": "2015-11-15T21:03:45Z",
             "owner": "aesteve",
@@ -2756,6 +2937,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52211549,
             "language": "Java",
             "last_commit": "2016-04-24T16:36:59Z",
             "owner": "aesteve",
@@ -2770,6 +2952,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 114156478,
             "language": "Java",
             "last_commit": "2017-12-20T20:27:22Z",
             "owner": "amdelamar",
@@ -2784,6 +2967,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 289192254,
             "language": "Java",
             "last_commit": "2020-09-17T03:16:35Z",
             "owner": "jgarciasm",
@@ -2798,6 +2982,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 488643420,
             "language": "Java",
             "last_commit": "2022-05-05T16:03:11Z",
             "owner": "immusen",
@@ -2812,6 +2997,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70421955,
             "language": "Scala",
             "last_commit": "2016-10-10T16:47:48Z",
             "owner": "aesteve",
@@ -2826,6 +3012,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51782235,
             "language": "Groovy",
             "last_commit": "2016-05-23T19:36:06Z",
             "owner": "aesteve",
@@ -2837,7 +3024,7 @@
       "title": "Examples"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2846,6 +3033,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65939518,
             "language": "Java",
             "last_commit": "2017-08-06T07:12:46Z",
             "owner": "engagingspaces",
@@ -2860,6 +3048,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23371843,
             "language": "Java",
             "last_commit": "2026-06-02T22:08:12Z",
             "owner": "diabolicallabs",
@@ -2874,6 +3063,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 334916802,
             "language": "HTML",
             "last_commit": "2026-08-10T07:02:47Z",
             "owner": "reactiverse",
@@ -2888,6 +3078,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51703094,
             "language": "Java",
             "last_commit": "2025-05-15T18:02:42Z",
             "owner": "romanpierson",
@@ -2902,6 +3093,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53810939,
             "language": "Ceylon",
             "last_commit": "2017-11-07T20:19:39Z",
             "owner": "LisiLisenok",
@@ -2916,6 +3108,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 157881111,
             "language": "Java",
             "last_commit": "2026-08-07T11:54:22Z",
             "owner": "NoEnv",
@@ -2930,6 +3123,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 101883035,
             "language": "Java",
             "last_commit": "2018-05-30T08:46:09Z",
             "owner": "tibor-kocsis",
@@ -2944,8 +3138,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 342511382,
             "language": "Java",
-            "last_commit": "2026-08-14T08:52:44Z",
+            "last_commit": "2026-08-19T17:51:23Z",
             "owner": "zero88",
             "repo": "scheduler.x",
             "stars": 14
@@ -2958,6 +3153,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 60347436,
             "language": "Java",
             "last_commit": "2022-03-12T07:34:27Z",
             "owner": "gchauvet",
@@ -2972,6 +3168,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 490708564,
             "language": "Java",
             "last_commit": "2026-08-07T11:54:22Z",
             "owner": "NoEnv",
@@ -2986,6 +3183,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80304621,
             "language": "Java",
             "last_commit": "2019-01-11T02:47:31Z",
             "owner": "juanavelez",
@@ -3000,6 +3198,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75652862,
             "language": "Java",
             "last_commit": "2026-01-15T22:52:19Z",
             "owner": "lusoalex",
@@ -3014,6 +3213,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 57565196,
             "language": "Java",
             "last_commit": "2016-05-01T09:55:00Z",
             "owner": "aesteve",
@@ -3028,6 +3228,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88551180,
             "language": "Java",
             "last_commit": "2018-05-13T01:33:57Z",
             "owner": "juanavelez",
@@ -3039,7 +3240,7 @@
       "title": "Utilities"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -3048,6 +3249,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27068567,
             "language": null,
             "last_commit": "2015-03-16T17:06:42Z",
             "owner": "vert-x3",
@@ -3062,6 +3264,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32781880,
             "language": null,
             "last_commit": "2016-06-21T12:04:13Z",
             "owner": "vert-x3",
@@ -3071,16 +3274,12 @@
         }
       ],
       "title": "Community"
-    },
-    {
-      "description": "Contributions welcome! Read the contribution guidelines first.",
-      "items": [],
-      "title": "Contribute"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T03:01:20.215Z",
+    "last_updated": "2026-08-20T03:00:55.362Z",
     "original_repository": "vert-x3/vertx-awesome",
+    "original_repository_id": 37015907,
     "original_repository_sha": "6978ef828da5cec96fad20e0f146b06ad35d45d9",
     "enhanced_repository": "enhansome/vertx-enhansome",
     "enhanced_repository_description": null,
