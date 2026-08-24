@@ -582,7 +582,7 @@
                 "archived": false,
                 "id": 4604367,
                 "language": "Java",
-                "last_commit": "2026-08-22T09:58:13Z",
+                "last_commit": "2026-08-23T22:40:42Z",
                 "owner": "sirixdb",
                 "repo": "sirix",
                 "stars": 1215
@@ -923,7 +923,7 @@
                 "archived": false,
                 "id": 54389337,
                 "language": "Java",
-                "last_commit": "2026-08-21T15:50:39Z",
+                "last_commit": "2026-08-23T08:57:10Z",
                 "owner": "strimzi",
                 "repo": "strimzi-kafka-bridge",
                 "stars": 338
@@ -1379,7 +1379,7 @@
             "last_commit": "2026-08-17T20:31:36Z",
             "owner": "eclipse-vertx",
             "repo": "vert.x",
-            "stars": 14686
+            "stars": 14687
           }
         },
         {
@@ -2522,10 +2522,10 @@
             "archived": false,
             "id": 133134007,
             "language": "Java",
-            "last_commit": "2026-08-22T10:45:08Z",
+            "last_commit": "2026-08-24T03:05:07Z",
             "owner": "OpenAPITools",
             "repo": "openapi-generator",
-            "stars": 26682
+            "stars": 26683
           }
         },
         {
@@ -2717,7 +2717,7 @@
             "last_commit": "2026-08-19T23:55:48Z",
             "owner": "knative",
             "repo": "docs",
-            "stars": 5080
+            "stars": 5081
           }
         },
         {
@@ -3277,7 +3277,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T03:06:48.631Z",
+    "last_updated": "2026-08-24T03:07:20.166Z",
     "original_repository": "vert-x3/vertx-awesome",
     "original_repository_id": 37015907,
     "original_repository_sha": "6978ef828da5cec96fad20e0f146b06ad35d45d9",
