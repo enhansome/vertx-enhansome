@@ -12,7 +12,7 @@
             "archived": false,
             "id": 130191297,
             "language": "Java",
-            "last_commit": "2026-08-20T07:02:33Z",
+            "last_commit": "2026-08-24T12:41:39Z",
             "owner": "reactiverse",
             "repo": "vertx-maven-plugin",
             "stars": 81
@@ -455,7 +455,7 @@
                 "archived": false,
                 "id": 89879438,
                 "language": "Java",
-                "last_commit": "2026-08-13T19:30:38Z",
+                "last_commit": "2026-08-24T13:53:09Z",
                 "owner": "eclipse-vertx",
                 "repo": "vertx-sql-client",
                 "stars": 912
@@ -582,7 +582,7 @@
                 "archived": false,
                 "id": 4604367,
                 "language": "Java",
-                "last_commit": "2026-08-23T22:40:42Z",
+                "last_commit": "2026-08-24T11:03:13Z",
                 "owner": "sirixdb",
                 "repo": "sirix",
                 "stars": 1215
@@ -597,7 +597,7 @@
                 "archived": false,
                 "id": 27546391,
                 "language": "Java",
-                "last_commit": "2026-08-11T06:12:29Z",
+                "last_commit": "2026-08-24T13:17:04Z",
                 "owner": "vert-x3",
                 "repo": "vertx-redis-client",
                 "stars": 142
@@ -1169,7 +1169,7 @@
                 "archived": false,
                 "id": 116847882,
                 "language": "Java",
-                "last_commit": "2026-08-07T07:14:11Z",
+                "last_commit": "2026-08-24T12:44:18Z",
                 "owner": "vert-x3",
                 "repo": "vertx-micrometer-metrics",
                 "stars": 55
@@ -1515,6 +1515,21 @@
             "owner": "vert-x3",
             "repo": "vertx-lang-python",
             "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Grooveex",
+          "description": "Syntactic sugar + utilities (DSL builders, etc.) on top of vertx-lang-groovy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 47360377,
+            "language": "Groovy",
+            "last_commit": "2016-05-23T19:35:03Z",
+            "owner": "aesteve",
+            "repo": "grooveex",
+            "stars": 14
           }
         }
       ],
@@ -2126,7 +2141,7 @@
             "archived": false,
             "id": 134901064,
             "language": "Java",
-            "last_commit": "2026-08-11T07:12:53Z",
+            "last_commit": "2026-08-24T13:30:58Z",
             "owner": "smallrye",
             "repo": "smallrye-fault-tolerance",
             "stars": 113
@@ -2522,10 +2537,10 @@
             "archived": false,
             "id": 133134007,
             "language": "Java",
-            "last_commit": "2026-08-24T03:05:07Z",
+            "last_commit": "2026-08-24T13:21:35Z",
             "owner": "OpenAPITools",
             "repo": "openapi-generator",
-            "stars": 26683
+            "stars": 26686
           }
         },
         {
@@ -2678,7 +2693,7 @@
             "archived": false,
             "id": 16709089,
             "language": "Java",
-            "last_commit": "2026-08-17T01:41:51Z",
+            "last_commit": "2026-08-24T07:53:51Z",
             "owner": "swisspost",
             "repo": "vertx-redisques",
             "stars": 14
@@ -3065,7 +3080,7 @@
             "archived": false,
             "id": 334916802,
             "language": "HTML",
-            "last_commit": "2026-08-10T07:02:47Z",
+            "last_commit": "2026-08-24T12:41:05Z",
             "owner": "reactiverse",
             "repo": "reactiverse-contextual-logging",
             "stars": 41
@@ -3277,7 +3292,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T03:07:20.166Z",
+    "last_updated": "2026-08-24T14:03:08.267Z",
     "original_repository": "vert-x3/vertx-awesome",
     "original_repository_id": 37015907,
     "original_repository_sha": "6978ef828da5cec96fad20e0f146b06ad35d45d9",
