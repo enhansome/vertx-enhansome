@@ -384,7 +384,7 @@
             "archived": false,
             "id": 19176652,
             "language": "Java",
-            "last_commit": "2026-08-20T05:26:34Z",
+            "last_commit": "2026-08-24T23:54:28Z",
             "owner": "pac4j",
             "repo": "vertx-pac4j",
             "stars": 135
@@ -582,7 +582,7 @@
                 "archived": false,
                 "id": 4604367,
                 "language": "Java",
-                "last_commit": "2026-08-24T11:03:13Z",
+                "last_commit": "2026-08-24T23:02:38Z",
                 "owner": "sirixdb",
                 "repo": "sirix",
                 "stars": 1215
@@ -2024,7 +2024,7 @@
             "last_commit": "2026-07-08T06:46:06Z",
             "owner": "resilience4j",
             "repo": "resilience4j",
-            "stars": 10748
+            "stars": 10749
           }
         },
         {
@@ -2486,7 +2486,7 @@
             "archived": false,
             "id": 112714184,
             "language": "Java",
-            "last_commit": "2026-08-07T07:14:01Z",
+            "last_commit": "2026-08-24T15:07:04Z",
             "owner": "eclipse-vertx",
             "repo": "vertx-junit5",
             "stars": 43
@@ -2537,10 +2537,10 @@
             "archived": false,
             "id": 133134007,
             "language": "Java",
-            "last_commit": "2026-08-24T13:21:35Z",
+            "last_commit": "2026-08-25T02:41:44Z",
             "owner": "OpenAPITools",
             "repo": "openapi-generator",
-            "stars": 26686
+            "stars": 26687
           }
         },
         {
@@ -2729,7 +2729,7 @@
             "archived": false,
             "id": 138207223,
             "language": "HTML",
-            "last_commit": "2026-08-19T23:55:48Z",
+            "last_commit": "2026-08-24T21:46:10Z",
             "owner": "knative",
             "repo": "docs",
             "stars": 5081
@@ -3292,7 +3292,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:03:08.267Z",
+    "last_updated": "2026-08-25T03:02:29.331Z",
     "original_repository": "vert-x3/vertx-awesome",
     "original_repository_id": 37015907,
     "original_repository_sha": "6978ef828da5cec96fad20e0f146b06ad35d45d9",
