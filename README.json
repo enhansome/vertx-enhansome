@@ -66,7 +66,7 @@
             "last_commit": "2018-01-18T19:02:18Z",
             "owner": "advantageous",
             "repo": "qbit",
-            "stars": 706
+            "stars": 707
           }
         },
         {
@@ -286,12 +286,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
-            "id": 808025737,
-            "language": "Java",
-            "last_commit": "2026-08-12T05:11:40Z",
+            "id": 1232764876,
+            "language": null,
+            "last_commit": "2026-05-08T08:46:58Z",
             "owner": "scx567888",
             "repo": "scx",
-            "stars": 3
+            "stars": 0
           }
         }
       ],
@@ -582,7 +582,7 @@
                 "archived": false,
                 "id": 4604367,
                 "language": "Java",
-                "last_commit": "2026-08-25T11:02:57Z",
+                "last_commit": "2026-08-26T20:37:45Z",
                 "owner": "sirixdb",
                 "repo": "sirix",
                 "stars": 1216
@@ -1340,7 +1340,7 @@
             "archived": false,
             "id": 52609528,
             "language": "Java",
-            "last_commit": "2026-08-17T10:59:25Z",
+            "last_commit": "2026-08-27T09:47:57Z",
             "owner": "swisspost",
             "repo": "gateleen",
             "stars": 84
@@ -1379,7 +1379,7 @@
             "last_commit": "2026-08-25T16:10:24Z",
             "owner": "eclipse-vertx",
             "repo": "vert.x",
-            "stars": 14687
+            "stars": 14686
           }
         },
         {
@@ -1550,7 +1550,7 @@
             "last_commit": "2018-01-18T19:02:18Z",
             "owner": "advantageous",
             "repo": "qbit",
-            "stars": 706
+            "stars": 707
           }
         },
         {
@@ -1874,7 +1874,7 @@
             "archived": false,
             "id": 26684056,
             "language": "Java",
-            "last_commit": "2026-08-07T07:14:46Z",
+            "last_commit": "2026-08-26T14:21:10Z",
             "owner": "vert-x3",
             "repo": "vertx-hazelcast",
             "stars": 82
@@ -2024,7 +2024,7 @@
             "last_commit": "2026-07-08T06:46:06Z",
             "owner": "resilience4j",
             "repo": "resilience4j",
-            "stars": 10749
+            "stars": 10751
           }
         },
         {
@@ -2039,7 +2039,7 @@
             "last_commit": "2025-12-28T01:41:28Z",
             "owner": "failsafe-lib",
             "repo": "failsafe",
-            "stars": 4308
+            "stars": 4310
           }
         },
         {
@@ -2141,7 +2141,7 @@
             "archived": false,
             "id": 134901064,
             "language": "Java",
-            "last_commit": "2026-08-25T07:55:16Z",
+            "last_commit": "2026-08-27T07:49:10Z",
             "owner": "smallrye",
             "repo": "smallrye-fault-tolerance",
             "stars": 113
@@ -2363,7 +2363,7 @@
             "last_commit": "2018-01-18T19:02:18Z",
             "owner": "advantageous",
             "repo": "qbit",
-            "stars": 706
+            "stars": 707
           }
         },
         {
@@ -2537,7 +2537,7 @@
             "archived": false,
             "id": 133134007,
             "language": "Java",
-            "last_commit": "2026-08-25T16:47:28Z",
+            "last_commit": "2026-08-27T10:07:23Z",
             "owner": "OpenAPITools",
             "repo": "openapi-generator",
             "stars": 26686
@@ -2693,7 +2693,7 @@
             "archived": false,
             "id": 16709089,
             "language": "Java",
-            "last_commit": "2026-08-24T07:53:51Z",
+            "last_commit": "2026-08-27T07:32:47Z",
             "owner": "swisspost",
             "repo": "vertx-redisques",
             "stars": 14
@@ -2762,7 +2762,7 @@
             "last_commit": "2018-12-13T19:50:35Z",
             "owner": "sczyh30",
             "repo": "vertx-blueprint-microservice",
-            "stars": 788
+            "stars": 787
           }
         },
         {
@@ -3292,9 +3292,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T03:09:35.844Z",
-    "original_repository": "vert-x3/vertx-awesome",
-    "original_repository_id": 37015907,
+    "last_updated": "2026-08-27T12:13:28.795Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 37015907,
+      "language": null,
+      "last_commit": "2026-06-27T03:13:48Z",
+      "owner": "vert-x3",
+      "repo": "vertx-awesome",
+      "stars": 2223
+    },
     "original_repository_sha": "6978ef828da5cec96fad20e0f146b06ad35d45d9",
     "enhanced_repository": "enhansome/vertx-enhansome",
     "enhanced_repository_description": null,
