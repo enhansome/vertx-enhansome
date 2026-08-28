@@ -12,11 +12,12 @@
             "archived": false,
             "id": 130191297,
             "language": "Java",
-            "last_commit": "2026-08-24T12:41:39Z",
+            "last_commit": "2026-08-28T10:16:58Z",
             "owner": "reactiverse",
             "repo": "vertx-maven-plugin",
             "stars": 81
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "bulivlad",
             "repo": "vertx-codegen-plugin",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         }
       ],
       "title": "Build tools"
@@ -48,11 +50,12 @@
             "archived": false,
             "id": 26628954,
             "language": "Java",
-            "last_commit": "2026-08-10T16:25:17Z",
+            "last_commit": "2026-08-27T16:23:03Z",
             "owner": "vert-x3",
             "repo": "vertx-web",
             "stars": 1150
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -67,7 +70,8 @@
             "owner": "advantageous",
             "repo": "qbit",
             "stars": 707
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "cloudoptlab",
             "repo": "cloudopt-next",
             "stars": 350
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "isaiah",
             "repo": "jubilee",
             "stars": 326
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "AppsFlyer",
             "repo": "donkey",
             "stars": 299
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "zandero",
             "repo": "rest.vertx",
             "stars": 168
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "kohesive",
             "repo": "kovert",
             "stars": 158
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "ef-labs",
             "repo": "vertx-jersey",
             "stars": 155
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "Knotx",
             "repo": "knotx",
             "stars": 126
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "dream-horizon-org",
             "repo": "vertx-rest",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "mcollovati",
             "repo": "vertx-vaadin",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "Atmosphere",
             "repo": "atmosphere-vertx",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "GreenfieldTech",
             "repo": "irked",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "swisspost",
             "repo": "vertx-rest-storage",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "lukehutch",
             "repo": "serverx",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -277,7 +294,8 @@
             "owner": "spriet2000",
             "repo": "vertx-handlers-http",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -292,7 +310,8 @@
             "owner": "scx567888",
             "repo": "scx",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         }
       ],
       "title": "Web Frameworks"
@@ -313,7 +332,8 @@
             "owner": "eclipse-vertx",
             "repo": "vertx-auth",
             "stars": 175
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -328,7 +348,8 @@
             "owner": "eclipse-vertx",
             "repo": "vertx-auth",
             "stars": 175
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -343,7 +364,8 @@
             "owner": "eclipse-vertx",
             "repo": "vertx-auth",
             "stars": 175
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -358,7 +380,8 @@
             "owner": "eclipse-vertx",
             "repo": "vertx-auth",
             "stars": 175
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -373,7 +396,8 @@
             "owner": "eclipse-vertx",
             "repo": "vertx-auth",
             "stars": 175
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -388,7 +412,8 @@
             "owner": "pac4j",
             "repo": "vertx-pac4j",
             "stars": 135
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -403,7 +428,8 @@
             "owner": "vert-x3",
             "repo": "vertx-auth",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         }
       ],
       "title": "Authentication Authorisation"
@@ -424,7 +450,8 @@
             "owner": "BraintagsGmbH",
             "repo": "vertx-pojo-mapper",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -439,7 +466,8 @@
             "owner": "guoyu511",
             "repo": "vertx-mysql-binlog-client",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "group",
@@ -455,11 +483,12 @@
                 "archived": false,
                 "id": 89879438,
                 "language": "Java",
-                "last_commit": "2026-08-24T13:53:09Z",
+                "last_commit": "2026-08-27T14:55:50Z",
                 "owner": "eclipse-vertx",
                 "repo": "vertx-sql-client",
-                "stars": 912
-              }
+                "stars": 913
+              },
+              "first_seen": "2026-08-28T14:10:37.689Z"
             },
             {
               "node_type": "item",
@@ -474,7 +503,8 @@
                 "owner": "jklingsporn",
                 "repo": "vertx-jooq",
                 "stars": 392
-              }
+              },
+              "first_seen": "2026-08-28T14:10:37.689Z"
             },
             {
               "node_type": "item",
@@ -485,11 +515,12 @@
                 "archived": false,
                 "id": 26814908,
                 "language": "Java",
-                "last_commit": "2026-08-25T17:17:20Z",
+                "last_commit": "2026-08-28T13:40:20Z",
                 "owner": "vert-x3",
                 "repo": "vertx-jdbc-client",
                 "stars": 131
-              }
+              },
+              "first_seen": "2026-08-28T14:10:37.689Z"
             },
             {
               "node_type": "item",
@@ -504,7 +535,8 @@
                 "owner": "vert-x3",
                 "repo": "vertx-mysql-postgresql-client",
                 "stars": 121
-              }
+              },
+              "first_seen": "2026-08-28T14:10:37.689Z"
             },
             {
               "node_type": "item",
@@ -519,7 +551,8 @@
                 "owner": "vietj",
                 "repo": "reactive-pg-client",
                 "stars": 75
-              }
+              },
+              "first_seen": "2026-08-28T14:10:37.689Z"
             },
             {
               "node_type": "item",
@@ -534,7 +567,8 @@
                 "owner": "susom",
                 "repo": "database",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T14:10:37.689Z"
             },
             {
               "node_type": "item",
@@ -549,7 +583,8 @@
                 "owner": "zero88",
                 "repo": "jooqx",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T14:10:37.689Z"
             },
             {
               "node_type": "item",
@@ -564,7 +599,8 @@
                 "owner": "huanshankeji",
                 "repo": "exposed-vertx-sql-client",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T14:10:37.689Z"
             }
           ]
         },
@@ -582,11 +618,12 @@
                 "archived": false,
                 "id": 4604367,
                 "language": "Java",
-                "last_commit": "2026-08-26T20:37:45Z",
+                "last_commit": "2026-08-27T22:01:22Z",
                 "owner": "sirixdb",
                 "repo": "sirix",
                 "stars": 1216
-              }
+              },
+              "first_seen": "2026-08-28T14:10:37.689Z"
             },
             {
               "node_type": "item",
@@ -601,7 +638,8 @@
                 "owner": "vert-x3",
                 "repo": "vertx-redis-client",
                 "stars": 142
-              }
+              },
+              "first_seen": "2026-08-28T14:10:37.689Z"
             },
             {
               "node_type": "item",
@@ -616,7 +654,8 @@
                 "owner": "vert-x3",
                 "repo": "vertx-mongo-client",
                 "stars": 63
-              }
+              },
+              "first_seen": "2026-08-28T14:10:37.689Z"
             },
             {
               "node_type": "item",
@@ -631,7 +670,8 @@
                 "owner": "ef-labs",
                 "repo": "vertx-cassandra",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T14:10:37.689Z"
             },
             {
               "node_type": "item",
@@ -646,7 +686,8 @@
                 "owner": "vert-x3",
                 "repo": "vertx-cassandra-client",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T14:10:37.689Z"
             },
             {
               "node_type": "item",
@@ -661,7 +702,8 @@
                 "owner": "dream-horizon-org",
                 "repo": "vertx-aerospike-client",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T14:10:37.689Z"
             },
             {
               "node_type": "item",
@@ -676,7 +718,8 @@
                 "owner": "pjgg",
                 "repo": "rxfirestore",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T14:10:37.689Z"
             },
             {
               "node_type": "item",
@@ -691,7 +734,8 @@
                 "owner": "cstamas",
                 "repo": "vertx-orientdb",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T14:10:37.689Z"
             },
             {
               "node_type": "item",
@@ -706,7 +750,8 @@
                 "owner": "etourdot",
                 "repo": "vertx-marklogic",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T14:10:37.689Z"
             },
             {
               "node_type": "item",
@@ -721,7 +766,8 @@
                 "owner": "cstamas",
                 "repo": "vertx-bitsy",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T14:10:37.689Z"
             },
             {
               "node_type": "item",
@@ -736,7 +782,8 @@
                 "owner": "aesteve",
                 "repo": "vertx-dgraph-client",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T14:10:37.689Z"
             },
             {
               "node_type": "item",
@@ -751,7 +798,8 @@
                 "owner": "romanbsd",
                 "repo": "neo4j-java-driver-vertx",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T14:10:37.689Z"
             },
             {
               "node_type": "item",
@@ -766,7 +814,8 @@
                 "owner": "imrafaelmerino",
                 "repo": "vertx-mongo-effect",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T14:10:37.689Z"
             }
           ]
         }
@@ -794,7 +843,8 @@
                 "owner": "mariomac",
                 "repo": "jeasse",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-28T14:10:37.689Z"
             },
             {
               "node_type": "item",
@@ -809,7 +859,8 @@
                 "owner": "aesteve",
                 "repo": "vertx-sse",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T14:10:37.689Z"
             }
           ]
         },
@@ -831,7 +882,8 @@
                 "owner": "vert-x3",
                 "repo": "vertx-mail-client",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T14:10:37.689Z"
             }
           ]
         },
@@ -853,7 +905,8 @@
                 "owner": "openapi4j",
                 "repo": "openapi4j",
                 "stars": 110
-              }
+              },
+              "first_seen": "2026-08-28T14:10:37.689Z"
             },
             {
               "node_type": "item",
@@ -868,7 +921,8 @@
                 "owner": "vietj",
                 "repo": "retrofit-vertx",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T14:10:37.689Z"
             },
             {
               "node_type": "item",
@@ -883,7 +937,8 @@
                 "owner": "imrafaelmerino",
                 "repo": "vertx-effect",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T14:10:37.689Z"
             }
           ]
         },
@@ -905,7 +960,8 @@
                 "owner": "OneManCrew",
                 "repo": "vertx-tftp-client",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T14:10:37.689Z"
             }
           ]
         },
@@ -923,11 +979,12 @@
                 "archived": false,
                 "id": 54389337,
                 "language": "Java",
-                "last_commit": "2026-08-25T14:03:25Z",
+                "last_commit": "2026-08-27T15:32:43Z",
                 "owner": "strimzi",
                 "repo": "strimzi-kafka-bridge",
                 "stars": 338
-              }
+              },
+              "first_seen": "2026-08-28T14:10:37.689Z"
             },
             {
               "node_type": "item",
@@ -942,7 +999,8 @@
                 "owner": "vert-x3",
                 "repo": "vertx-mqtt",
                 "stars": 214
-              }
+              },
+              "first_seen": "2026-08-28T14:10:37.689Z"
             },
             {
               "node_type": "item",
@@ -957,7 +1015,8 @@
                 "owner": "viartemev",
                 "repo": "rabbitmq-kotlin",
                 "stars": 130
-              }
+              },
+              "first_seen": "2026-08-28T14:10:37.689Z"
             },
             {
               "node_type": "item",
@@ -972,7 +1031,8 @@
                 "owner": "vert-x3",
                 "repo": "vertx-kafka-client",
                 "stars": 90
-              }
+              },
+              "first_seen": "2026-08-28T14:10:37.689Z"
             },
             {
               "node_type": "item",
@@ -987,7 +1047,8 @@
                 "owner": "vert-x3",
                 "repo": "vertx-kafka-client",
                 "stars": 90
-              }
+              },
+              "first_seen": "2026-08-28T14:10:37.689Z"
             },
             {
               "node_type": "item",
@@ -1002,7 +1063,8 @@
                 "owner": "vert-x3",
                 "repo": "vertx-rabbitmq-client",
                 "stars": 76
-              }
+              },
+              "first_seen": "2026-08-28T14:10:37.689Z"
             },
             {
               "node_type": "item",
@@ -1017,7 +1079,8 @@
                 "owner": "vert-x3",
                 "repo": "vertx-stomp",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T14:10:37.689Z"
             },
             {
               "node_type": "item",
@@ -1032,7 +1095,8 @@
                 "owner": "cyngn",
                 "repo": "vertx-kafka",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T14:10:37.689Z"
             },
             {
               "node_type": "item",
@@ -1047,7 +1111,8 @@
                 "owner": "dano",
                 "repo": "vertx-zeromq",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T14:10:37.689Z"
             },
             {
               "node_type": "item",
@@ -1062,7 +1127,8 @@
                 "owner": "vert-x3",
                 "repo": "vertx-amqp-bridge",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T14:10:37.689Z"
             },
             {
               "node_type": "item",
@@ -1077,7 +1143,8 @@
                 "owner": "i22-digitalagentur",
                 "repo": "vertx-wamp",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T14:10:37.689Z"
             },
             {
               "node_type": "item",
@@ -1092,7 +1159,8 @@
                 "owner": "TextBack",
                 "repo": "vertx-azure-servicebus",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T14:10:37.689Z"
             }
           ]
         },
@@ -1114,7 +1182,8 @@
                 "owner": "weld",
                 "repo": "weld-vertx",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T14:10:37.689Z"
             },
             {
               "node_type": "item",
@@ -1129,7 +1198,8 @@
                 "owner": "vert-x3",
                 "repo": "vertx-jca",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T14:10:37.689Z"
             }
           ]
         },
@@ -1151,7 +1221,8 @@
                 "owner": "jmusacchio",
                 "repo": "vertxbus",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T14:10:37.689Z"
             }
           ]
         },
@@ -1173,7 +1244,8 @@
                 "owner": "vert-x3",
                 "repo": "vertx-micrometer-metrics",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T14:10:37.689Z"
             },
             {
               "node_type": "item",
@@ -1188,7 +1260,8 @@
                 "owner": "vert-x3",
                 "repo": "vertx-dropwizard-metrics",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T14:10:37.689Z"
             },
             {
               "node_type": "item",
@@ -1203,7 +1276,8 @@
                 "owner": "cyngn",
                 "repo": "vertx-opentsdb",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T14:10:37.689Z"
             },
             {
               "node_type": "item",
@@ -1218,7 +1292,8 @@
                 "owner": "tsegismont",
                 "repo": "vertx-monitor",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T14:10:37.689Z"
             },
             {
               "node_type": "item",
@@ -1233,7 +1308,8 @@
                 "owner": "cyngn",
                 "repo": "vertx-bosun",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T14:10:37.689Z"
             }
           ]
         },
@@ -1255,7 +1331,8 @@
                 "owner": "kennedyoliveira",
                 "repo": "hystrix-vertx-metrics-stream",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T14:10:37.689Z"
             }
           ]
         },
@@ -1277,7 +1354,8 @@
                 "owner": "wem",
                 "repo": "vertx-dart-sockjs",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T14:10:37.689Z"
             }
           ]
         },
@@ -1299,7 +1377,8 @@
                 "owner": "jklingsporn",
                 "repo": "vertx-push-onesignal",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T14:10:37.689Z"
             }
           ]
         },
@@ -1321,7 +1400,8 @@
                 "owner": "cloudevents",
                 "repo": "sdk-java",
                 "stars": 445
-              }
+              },
+              "first_seen": "2026-08-28T14:10:37.689Z"
             }
           ]
         }
@@ -1344,7 +1424,8 @@
             "owner": "swisspost",
             "repo": "gateleen",
             "stars": 84
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -1359,7 +1440,8 @@
             "owner": "vinscom",
             "repo": "api-framework",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         }
       ],
       "title": "Middleware"
@@ -1376,11 +1458,12 @@
             "archived": false,
             "id": 1911523,
             "language": "Java",
-            "last_commit": "2026-08-25T16:10:24Z",
+            "last_commit": "2026-08-28T10:09:44Z",
             "owner": "eclipse-vertx",
             "repo": "vert.x",
             "stars": 14686
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -1395,7 +1478,8 @@
             "owner": "reactiverse",
             "repo": "es4x",
             "stars": 891
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -1410,7 +1494,8 @@
             "owner": "vert-x3",
             "repo": "vertx-lang-kotlin",
             "stars": 302
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -1425,7 +1510,8 @@
             "owner": "reactiverse",
             "repo": "vertx-lang-scala",
             "stars": 124
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -1440,7 +1526,8 @@
             "owner": "vert-x3",
             "repo": "vertx-lang-js",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -1455,7 +1542,8 @@
             "owner": "vert-x3",
             "repo": "vertx-lang-ruby",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -1470,7 +1558,8 @@
             "owner": "vert-x3",
             "repo": "vertx-lang-groovy",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -1485,7 +1574,8 @@
             "owner": "vert-x3",
             "repo": "vertx-lang-ceylon",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -1500,7 +1590,8 @@
             "owner": "vert-x-cn",
             "repo": "vertx-lang-jphp",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -1515,7 +1606,8 @@
             "owner": "vert-x3",
             "repo": "vertx-lang-python",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -1530,7 +1622,8 @@
             "owner": "aesteve",
             "repo": "grooveex",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         }
       ],
       "title": "Language Support"
@@ -1551,7 +1644,8 @@
             "owner": "advantageous",
             "repo": "qbit",
             "stars": 707
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -1566,7 +1660,8 @@
             "owner": "vert-x3",
             "repo": "vertx-lang-kotlin",
             "stars": 302
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -1581,7 +1676,8 @@
             "owner": "vert-x3",
             "repo": "vertx-rx",
             "stars": 155
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -1596,7 +1692,8 @@
             "owner": "vert-x3",
             "repo": "vertx-sync",
             "stars": 99
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -1611,7 +1708,8 @@
             "owner": "vert-x3",
             "repo": "vertx-reactive-streams",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -1626,7 +1724,8 @@
             "owner": "cyngn",
             "repo": "vertx-util",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -1641,7 +1740,8 @@
             "owner": "imrafaelmerino",
             "repo": "vertx-effect",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         }
       ],
       "title": "Reactive"
@@ -1662,7 +1762,8 @@
             "owner": "nielsbaloe",
             "repo": "vertxui",
             "stars": 124
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -1677,7 +1778,8 @@
             "owner": "jponge",
             "repo": "vertx-go-tcp-eventbus-bridge",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -1692,7 +1794,8 @@
             "owner": "abdlquadri",
             "repo": "vertx-eventbus-java",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -1707,7 +1810,8 @@
             "owner": "saffron-technology",
             "repo": "vertx-eventbusbridge",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -1722,7 +1826,8 @@
             "owner": "julien3",
             "repo": "vertxbuspp",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -1737,7 +1842,8 @@
             "owner": "PharosProduction",
             "repo": "ExVertx",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -1752,7 +1858,8 @@
             "owner": "danielstieger",
             "repo": "javaxbus",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -1767,7 +1874,8 @@
             "owner": "jaymine",
             "repo": "TCP-eventbus-client-Python",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -1782,7 +1890,8 @@
             "owner": "mumez",
             "repo": "VerStix",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -1797,7 +1906,8 @@
             "owner": "aesteve",
             "repo": "vertx-eventbus-client-rs",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -1812,7 +1922,8 @@
             "owner": "jaymine",
             "repo": "TCP-eventbus-client-C-Sharp",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -1827,7 +1938,8 @@
             "owner": "tobias",
             "repo": "vertx-swift-eventbus",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -1842,7 +1954,8 @@
             "owner": "jaymine",
             "repo": "TCP-eventbus-client-C",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -1857,7 +1970,8 @@
             "owner": "cinterloper",
             "repo": "vxc",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         }
       ],
       "title": "Vert.x Event Bus Clients"
@@ -1878,7 +1992,8 @@
             "owner": "vert-x3",
             "repo": "vertx-hazelcast",
             "stars": 82
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -1893,7 +2008,8 @@
             "owner": "vert-x3",
             "repo": "vertx-zookeeper",
             "stars": 75
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -1908,7 +2024,8 @@
             "owner": "vert-x3",
             "repo": "vertx-ignite",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -1923,7 +2040,8 @@
             "owner": "reactiverse",
             "repo": "consul-cluster-manager",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -1938,7 +2056,8 @@
             "owner": "vert-x3",
             "repo": "vertx-infinispan",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -1953,7 +2072,8 @@
             "owner": "vert-x3",
             "repo": "vertx-jgroups",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         }
       ],
       "title": "Cluster Managers"
@@ -1974,7 +2094,8 @@
             "owner": "reactiverse",
             "repo": "aws-sdk",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -1989,7 +2110,8 @@
             "owner": "vert-x3",
             "repo": "vertx-openshift-cartridge",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -2004,7 +2126,8 @@
             "owner": "vert-x3",
             "repo": "vertx-openshift-diy-quickstart",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         }
       ],
       "title": "Cloud Support"
@@ -2024,8 +2147,9 @@
             "last_commit": "2026-07-08T06:46:06Z",
             "owner": "resilience4j",
             "repo": "resilience4j",
-            "stars": 10751
-          }
+            "stars": 10752
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -2040,7 +2164,8 @@
             "owner": "failsafe-lib",
             "repo": "failsafe",
             "stars": 4310
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -2055,7 +2180,8 @@
             "owner": "apache",
             "repo": "servicecomb-java-chassis",
             "stars": 1940
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -2070,7 +2196,8 @@
             "owner": "vert-x3",
             "repo": "vertx-service-discovery",
             "stars": 121
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -2085,7 +2212,8 @@
             "owner": "vert-x3",
             "repo": "vertx-service-discovery",
             "stars": 121
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -2100,7 +2228,8 @@
             "owner": "vert-x3",
             "repo": "vertx-service-discovery",
             "stars": 121
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -2115,7 +2244,8 @@
             "owner": "vert-x3",
             "repo": "vertx-service-discovery",
             "stars": 121
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -2130,7 +2260,8 @@
             "owner": "vert-x3",
             "repo": "vertx-service-discovery",
             "stars": 121
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -2145,7 +2276,8 @@
             "owner": "smallrye",
             "repo": "smallrye-fault-tolerance",
             "stars": 113
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -2160,7 +2292,8 @@
             "owner": "vert-x3",
             "repo": "vertx-circuit-breaker",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -2175,7 +2308,8 @@
             "owner": "engagingspaces",
             "repo": "vertx-graphql-service-discovery",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -2190,7 +2324,8 @@
             "owner": "mikand13",
             "repo": "autonomous-services",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         }
       ],
       "title": "Microservices"
@@ -2211,7 +2346,8 @@
             "owner": "ef-labs",
             "repo": "vertx-elasticsearch-service",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -2226,7 +2362,8 @@
             "owner": "ef-labs",
             "repo": "vertx-solr-service",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         }
       ],
       "title": "Search Engines"
@@ -2247,7 +2384,8 @@
             "owner": "vert-x3",
             "repo": "vertx-service-factory",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -2262,7 +2400,8 @@
             "owner": "vert-x3",
             "repo": "vertx-maven-service-factory",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -2277,7 +2416,8 @@
             "owner": "vert-x3",
             "repo": "vertx-http-service-factory",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -2292,7 +2432,8 @@
             "owner": "mellster2012",
             "repo": "vertx-nodejs-service-factory",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -2307,7 +2448,8 @@
             "owner": "cstamas",
             "repo": "vertx-sisu",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         }
       ],
       "title": "Service Factory"
@@ -2328,7 +2470,8 @@
             "owner": "jponge",
             "repo": "vertx-boot",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -2343,7 +2486,8 @@
             "owner": "Finovertech",
             "repo": "vertx-config-aws-ssm",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         }
       ],
       "title": "Config"
@@ -2364,7 +2508,8 @@
             "owner": "advantageous",
             "repo": "qbit",
             "stars": 707
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -2379,7 +2524,8 @@
             "owner": "ef-labs",
             "repo": "vertx-guice",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -2394,7 +2540,8 @@
             "owner": "amoAHCP",
             "repo": "spring-vertx-ext",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -2409,7 +2556,8 @@
             "owner": "ef-labs",
             "repo": "vertx-hk2",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -2424,7 +2572,8 @@
             "owner": "rworsnop",
             "repo": "vertx-beans",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -2439,7 +2588,8 @@
             "owner": "juanavelez",
             "repo": "vertx-spring-verticle-factory",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -2454,7 +2604,8 @@
             "owner": "cstamas",
             "repo": "vertx-sisu",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -2469,7 +2620,8 @@
             "owner": "vinscom",
             "repo": "glue",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         }
       ],
       "title": "Dependency Injection"
@@ -2490,7 +2642,8 @@
             "owner": "eclipse-vertx",
             "repo": "vertx-junit5",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -2505,7 +2658,8 @@
             "owner": "vert-x3",
             "repo": "vertx-unit",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -2520,7 +2674,8 @@
             "owner": "NoEnv",
             "repo": "vertx-wiremongo",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         }
       ],
       "title": "Testing"
@@ -2537,11 +2692,12 @@
             "archived": false,
             "id": 133134007,
             "language": "Java",
-            "last_commit": "2026-08-27T10:07:23Z",
+            "last_commit": "2026-08-28T04:15:32Z",
             "owner": "OpenAPITools",
             "repo": "openapi-generator",
-            "stars": 26686
-          }
+            "stars": 26689
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -2556,7 +2712,8 @@
             "owner": "dazraf",
             "repo": "vertx-hot",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -2571,7 +2728,8 @@
             "owner": "vert-x3",
             "repo": "vertx-shell",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -2586,7 +2744,8 @@
             "owner": "eclipse-vertx",
             "repo": "vertx-health-check",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -2601,7 +2760,8 @@
             "owner": "ybonnel",
             "repo": "vertx-livereload",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -2616,7 +2776,8 @@
             "owner": "pmlopes",
             "repo": "VertxSnippet",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         }
       ],
       "title": "Development Tools"
@@ -2637,7 +2798,8 @@
             "owner": "pitchpoint-solutions",
             "repo": "sfs",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -2652,7 +2814,8 @@
             "owner": "reactiverse",
             "repo": "reactiverse-child-process",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -2667,7 +2830,8 @@
             "owner": "jponge",
             "repo": "vertx-boot",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -2682,7 +2846,8 @@
             "owner": "maxamel",
             "repo": "GDH",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -2697,7 +2862,8 @@
             "owner": "swisspost",
             "repo": "vertx-redisques",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -2712,7 +2878,8 @@
             "owner": "imrafaelmerino",
             "repo": "vertx-values",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         }
       ],
       "title": "Miscellaneous"
@@ -2733,7 +2900,8 @@
             "owner": "knative",
             "repo": "docs",
             "stars": 5082
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -2748,7 +2916,8 @@
             "owner": "vert-x3",
             "repo": "vertx-examples",
             "stars": 3580
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -2763,7 +2932,8 @@
             "owner": "sczyh30",
             "repo": "vertx-blueprint-microservice",
             "stars": 787
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -2778,7 +2948,8 @@
             "owner": "sczyh30",
             "repo": "vertx-blueprint-todo-backend",
             "stars": 185
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -2793,7 +2964,8 @@
             "owner": "sczyh30",
             "repo": "vertx-kue",
             "stars": 146
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -2808,7 +2980,8 @@
             "owner": "aesteve",
             "repo": "vertx-feeds",
             "stars": 132
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -2823,7 +2996,8 @@
             "owner": "crabzilla",
             "repo": "crabzilla",
             "stars": 75
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -2838,7 +3012,8 @@
             "owner": "tsegismont",
             "repo": "vertx-musicstore",
             "stars": 69
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -2853,7 +3028,8 @@
             "owner": "advantageous",
             "repo": "vertx-node-ec2-eventbus-example",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -2868,7 +3044,8 @@
             "owner": "BillyYccc",
             "repo": "vertx-postgresql-starter",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -2883,7 +3060,8 @@
             "owner": "gentics",
             "repo": "mesh-vertx-example",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -2898,7 +3076,8 @@
             "owner": "yyunikov",
             "repo": "vertx-gradle-starter",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -2913,7 +3092,8 @@
             "owner": "aesteve",
             "repo": "vertx-kotlin-todomvc",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -2928,7 +3108,8 @@
             "owner": "aesteve",
             "repo": "http2-showcase",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -2943,7 +3124,8 @@
             "owner": "aesteve",
             "repo": "vertx-markdown-service",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -2958,7 +3140,8 @@
             "owner": "aesteve",
             "repo": "todo-backend-vertx",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -2973,7 +3156,8 @@
             "owner": "amdelamar",
             "repo": "vertx-cloudfoundry",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -2988,7 +3172,8 @@
             "owner": "jgarciasm",
             "repo": "ssv-api",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -3003,7 +3188,8 @@
             "owner": "immusen",
             "repo": "vertx-pmml",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -3018,7 +3204,8 @@
             "owner": "aesteve",
             "repo": "vertx-scala-todomvc",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -3033,7 +3220,8 @@
             "owner": "aesteve",
             "repo": "todo-backend-grooveex",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         }
       ],
       "title": "Examples"
@@ -3054,7 +3242,8 @@
             "owner": "engagingspaces",
             "repo": "vertx-dataloader",
             "stars": 73
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -3069,7 +3258,8 @@
             "owner": "diabolicallabs",
             "repo": "vertx-cron",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -3084,7 +3274,8 @@
             "owner": "reactiverse",
             "repo": "reactiverse-contextual-logging",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -3099,7 +3290,8 @@
             "owner": "romanpierson",
             "repo": "vertx-web-accesslog",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -3114,7 +3306,8 @@
             "owner": "LisiLisenok",
             "repo": "Chime",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -3129,7 +3322,8 @@
             "owner": "NoEnv",
             "repo": "vertx-cronutils",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -3144,7 +3338,8 @@
             "owner": "tibor-kocsis",
             "repo": "vertx-graphql-utils",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -3159,7 +3354,8 @@
             "owner": "zero88",
             "repo": "scheduler.x",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -3174,7 +3370,8 @@
             "owner": "gchauvet",
             "repo": "vertx-async",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -3189,7 +3386,8 @@
             "owner": "NoEnv",
             "repo": "vertx-jsonpath",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -3204,7 +3402,8 @@
             "owner": "juanavelez",
             "repo": "vertx-dependent-verticle-deployer",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -3219,7 +3418,8 @@
             "owner": "lusoalex",
             "repo": "vertx-jolt",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -3234,7 +3434,8 @@
             "owner": "aesteve",
             "repo": "vertx-pojo-config",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -3249,7 +3450,8 @@
             "owner": "juanavelez",
             "repo": "vertx-util",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         }
       ],
       "title": "Utilities"
@@ -3270,7 +3472,8 @@
             "owner": "vert-x3",
             "repo": "wiki",
             "stars": 191
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         },
         {
           "node_type": "item",
@@ -3285,14 +3488,15 @@
             "owner": "vert-x3",
             "repo": "issues",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T14:10:37.689Z"
         }
       ],
       "title": "Community"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:37:43.181Z",
+    "last_updated": "2026-08-28T14:10:37.689Z",
     "original_repository_info": {
       "archived": false,
       "id": 37015907,
