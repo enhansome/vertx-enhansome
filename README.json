@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Maven plugin for pimping the build of your Vert.x applications",
+            "homepage": "https://reactiverse.io/vertx-maven-plugin/",
             "id": 130191297,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T10:16:58Z",
+            "open_issues": 7,
             "owner": "reactiverse",
             "repo": "vertx-maven-plugin",
-            "stars": 81
+            "stars": 81,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -26,12 +31,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Gradle plugin to facilitate the codegen usage for Vert.x Java projects",
+            "homepage": null,
             "id": 183470050,
             "language": "Groovy",
+            "license": "GPL-3.0",
             "last_commit": "2020-06-18T20:19:46Z",
+            "open_issues": 0,
             "owner": "bulivlad",
             "repo": "vertx-codegen-plugin",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "codegen",
+              "gradle-plugin",
+              "vert-x",
+              "vertx-codegen",
+              "vertx3"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         }
@@ -48,12 +64,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HTTP web applications for Vert.x",
+            "homepage": null,
             "id": 26628954,
             "language": "Java",
-            "last_commit": "2026-08-27T16:23:03Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T21:03:47Z",
+            "open_issues": 156,
             "owner": "vert-x3",
             "repo": "vertx-web",
-            "stars": 1150
+            "stars": 1150,
+            "topics": [
+              "client",
+              "reactive",
+              "server",
+              "sockjs",
+              "vertx",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -64,12 +92,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Java microservice lib. QBit is a reactive programming lib for building microservices - JSON, HTTP, WebSocket, and REST. QBit uses reactive programming to build elastic REST, and WebSockets based cloud friendly, web services. SOA evolved for mobile and cloud.  ServiceDiscovery, Health, reactive StatService, events, Java idiomatic reactive programming for Microservices.",
+            "homepage": "http://advantageous.github.io/qbit/",
             "id": 23338118,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2018-01-18T19:02:18Z",
+            "open_issues": 61,
             "owner": "advantageous",
             "repo": "qbit",
-            "stars": 707
+            "stars": 707,
+            "topics": [
+              "actor",
+              "aws",
+              "health",
+              "java",
+              "microservice",
+              "monitoring",
+              "qbit",
+              "websocket",
+              "websocket-support"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -80,12 +123,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple and modern Java and Kotlin vert.x web framework",
+            "homepage": "https://www.yuque.com/cloudopt/next/hp3mc1",
             "id": 117033346,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2024-02-25T07:43:38Z",
+            "open_issues": 3,
             "owner": "cloudoptlab",
             "repo": "cloudopt-next",
-            "stars": 350
+            "stars": 350,
+            "topics": [
+              "cloudopt",
+              "framework",
+              "java",
+              "java-8",
+              "java-9",
+              "java-library",
+              "java-web",
+              "jfinal",
+              "kotlin",
+              "next",
+              "restful-api",
+              "resty",
+              "springboot",
+              "vert",
+              "vertx",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -96,12 +161,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A rack server built upon vert.x",
+            "homepage": "http://isaiah.github.io/jubilee",
             "id": 7109729,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2017-01-04T10:38:44Z",
+            "open_issues": 8,
             "owner": "isaiah",
             "repo": "jubilee",
-            "stars": 326
+            "stars": 326,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -112,12 +182,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Modern Clojure HTTP server and client built for ease of use and performance",
+            "homepage": null,
             "id": 299617165,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2023-12-05T22:39:57Z",
+            "open_issues": 8,
             "owner": "AppsFlyer",
             "repo": "donkey",
-            "stars": 299
+            "stars": 299,
+            "topics": [
+              "clojure",
+              "http-client",
+              "http-server",
+              "java",
+              "netty",
+              "ring",
+              "vertx"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -128,12 +211,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A JAX-RS like annotation processor for vert.x verticals and more",
+            "homepage": null,
             "id": 87552367,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-21T16:07:37Z",
+            "open_issues": 6,
             "owner": "zandero",
             "repo": "rest.vertx",
-            "stars": 168
+            "stars": 168,
+            "topics": [
+              "jax-rs",
+              "rest",
+              "rest-api",
+              "restful-api",
+              "vertx"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -144,12 +238,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The invisible REST and web framework",
+            "homepage": null,
             "id": 41204568,
             "language": "Kotlin",
+            "license": "MIT",
             "last_commit": "2018-11-15T18:16:49Z",
+            "open_issues": 9,
             "owner": "kohesive",
             "repo": "kovert",
-            "stars": 158
+            "stars": 158,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -160,12 +259,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Run jersey in vert.x",
+            "homepage": null,
             "id": 9239473,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2021-10-28T02:09:50Z",
+            "open_issues": 18,
             "owner": "ef-labs",
             "repo": "vertx-jersey",
-            "stars": 155
+            "stars": 155,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -176,12 +280,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Knot.x is a highly-efficient and scalable integration framework designed to build backend APIs",
+            "homepage": "https://knotx.github.io",
             "id": 60755660,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2022-03-28T18:11:22Z",
+            "open_issues": 16,
             "owner": "Knotx",
             "repo": "knotx",
-            "stars": 126
+            "stars": 126,
+            "topics": [
+              "adobe-cq",
+              "adobe-experience-manager",
+              "aem",
+              "handlebars",
+              "java-8",
+              "knotx",
+              "microservices",
+              "reactive",
+              "rxjava",
+              "vertx"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -192,12 +312,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Writing vertx rest application based on JAX-RS applications",
+            "homepage": "https://dream11.github.io/vertx-rest/",
             "id": 441092623,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2025-12-23T10:14:15Z",
+            "open_issues": 3,
             "owner": "dream-horizon-org",
             "repo": "vertx-rest",
-            "stars": 49
+            "stars": 49,
+            "topics": [
+              "jax-rs",
+              "vertx"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -208,12 +336,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Run Vaadin UI on Vert.x",
+            "homepage": null,
             "id": 123822761,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2025-06-07T07:36:39Z",
+            "open_issues": 0,
             "owner": "mcollovati",
             "repo": "vertx-vaadin",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "vaadin",
+              "vertx",
+              "vertx-web"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -224,12 +361,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Atmosphere for Vert.x",
+            "homepage": null,
             "id": 10320995,
             "language": "Java",
+            "license": null,
             "last_commit": "2026-02-24T17:59:32Z",
+            "open_issues": 3,
             "owner": "Atmosphere",
             "repo": "atmosphere-vertx",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "atmosphere",
+              "java",
+              "jersey",
+              "reactive",
+              "vertx",
+              "websocket"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -240,12 +389,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Controller framework for Vert.x-web with automatic configuration and dynamic discovery.",
+            "homepage": null,
             "id": 95486262,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-08-08T13:38:13Z",
+            "open_issues": 0,
             "owner": "GreenfieldTech",
             "repo": "irked",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -256,12 +410,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Persistence for REST resources in the filesystem or a redis database",
+            "homepage": null,
             "id": 16709082,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-03T14:19:57Z",
+            "open_issues": 18,
             "owner": "swisspost",
             "repo": "vertx-rest-storage",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -272,12 +431,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Vert.x-powered asynchronous multithreaded web server with simple annotation-based configuration of routes",
+            "homepage": null,
             "id": 176669253,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2022-09-01T23:04:12Z",
+            "open_issues": 4,
             "owner": "lukehutch",
             "repo": "serverx",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -288,12 +452,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Handlers-http provides a minimal and adaptable interface for developing web applications on the vert-x3 platform.",
+            "homepage": null,
             "id": 26717737,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2020-10-13T02:25:00Z",
+            "open_issues": 1,
             "owner": "spriet2000",
             "repo": "vertx-handlers-http",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -304,12 +473,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "➡️ Moved to SCX Projects",
+            "homepage": null,
             "id": 1232764876,
             "language": null,
+            "license": null,
             "last_commit": "2026-05-08T08:46:58Z",
+            "open_issues": 0,
             "owner": "scx567888",
             "repo": "scx",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         }
@@ -326,12 +500,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Authentication and authorization providers for Eclipse Vert.x",
+            "homepage": "https://vertx.io/docs/vertx-auth-common/java/",
             "id": 27583882,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T15:33:06Z",
+            "open_issues": 48,
             "owner": "eclipse-vertx",
             "repo": "vertx-auth",
-            "stars": 175
+            "stars": 175,
+            "topics": [
+              "async",
+              "jwt",
+              "oauth",
+              "oauth2",
+              "reactive",
+              "security",
+              "vertx"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -342,12 +529,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Authentication and authorization providers for Eclipse Vert.x",
+            "homepage": "https://vertx.io/docs/vertx-auth-common/java/",
             "id": 27583882,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T15:33:06Z",
+            "open_issues": 48,
             "owner": "eclipse-vertx",
             "repo": "vertx-auth",
-            "stars": 175
+            "stars": 175,
+            "topics": [
+              "async",
+              "jwt",
+              "oauth",
+              "oauth2",
+              "reactive",
+              "security",
+              "vertx"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -358,12 +558,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Authentication and authorization providers for Eclipse Vert.x",
+            "homepage": "https://vertx.io/docs/vertx-auth-common/java/",
             "id": 27583882,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T15:33:06Z",
+            "open_issues": 48,
             "owner": "eclipse-vertx",
             "repo": "vertx-auth",
-            "stars": 175
+            "stars": 175,
+            "topics": [
+              "async",
+              "jwt",
+              "oauth",
+              "oauth2",
+              "reactive",
+              "security",
+              "vertx"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -374,12 +587,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Authentication and authorization providers for Eclipse Vert.x",
+            "homepage": "https://vertx.io/docs/vertx-auth-common/java/",
             "id": 27583882,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T15:33:06Z",
+            "open_issues": 48,
             "owner": "eclipse-vertx",
             "repo": "vertx-auth",
-            "stars": 175
+            "stars": 175,
+            "topics": [
+              "async",
+              "jwt",
+              "oauth",
+              "oauth2",
+              "reactive",
+              "security",
+              "vertx"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -390,12 +616,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Authentication and authorization providers for Eclipse Vert.x",
+            "homepage": "https://vertx.io/docs/vertx-auth-common/java/",
             "id": 27583882,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T15:33:06Z",
+            "open_issues": 48,
             "owner": "eclipse-vertx",
             "repo": "vertx-auth",
-            "stars": 175
+            "stars": 175,
+            "topics": [
+              "async",
+              "jwt",
+              "oauth",
+              "oauth2",
+              "reactive",
+              "security",
+              "vertx"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -406,12 +645,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Security library for Vert.x: OpenID Connect, SAML2, CAS, OAuth, LDAP, JWT...",
+            "homepage": "http://www.pac4j.org",
             "id": 19176652,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T00:37:39Z",
+            "open_issues": 2,
             "owner": "pac4j",
             "repo": "vertx-pac4j",
-            "stars": 135
+            "stars": 135,
+            "topics": [
+              "authentication",
+              "authorization",
+              "cas",
+              "facebook",
+              "java",
+              "jwt",
+              "ldap",
+              "login",
+              "logout",
+              "mongodb",
+              "oauth",
+              "openid-connect",
+              "saml",
+              "security",
+              "social-login",
+              "sql",
+              "twitter",
+              "vertx"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -422,12 +685,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 594065633,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-07T07:14:56Z",
+            "open_issues": 2,
             "owner": "vert-x3",
             "repo": "vertx-auth",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         }
@@ -444,12 +712,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "nonblocking pojo mapping for document and sql databases",
+            "homepage": null,
             "id": 38103129,
             "language": "HTML",
+            "license": "EPL-1.0",
             "last_commit": "2018-08-23T16:29:15Z",
+            "open_issues": 41,
             "owner": "BraintagsGmbH",
             "repo": "vertx-pojo-mapper",
-            "stars": 56
+            "stars": 56,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -460,12 +733,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Vert.x client allowing applications tapping into MySQL replication stream.",
+            "homepage": null,
             "id": 94186558,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2017-10-29T03:00:19Z",
+            "open_issues": 0,
             "owner": "guoyu511",
             "repo": "vertx-mysql-binlog-client",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -481,12 +759,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "High performance reactive SQL client written in Java",
+                "homepage": "https://vertx.io/docs/vertx-pg-client/java/",
                 "id": 89879438,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T14:55:50Z",
+                "open_issues": 75,
                 "owner": "eclipse-vertx",
                 "repo": "vertx-sql-client",
-                "stars": 913
+                "stars": 913,
+                "topics": [
+                  "async",
+                  "mssql",
+                  "mysql",
+                  "netty",
+                  "non-blocking",
+                  "performance",
+                  "pg",
+                  "postgres",
+                  "reactive",
+                  "scalability",
+                  "vertx"
+                ]
               },
               "first_seen": "2026-08-28T14:10:37.689Z"
             },
@@ -497,12 +792,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A jOOQ-CodeGenerator to create vertx-ified DAOs and POJOs.",
+                "homepage": null,
                 "id": 72728706,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2024-01-11T11:28:15Z",
+                "open_issues": 48,
                 "owner": "jklingsporn",
                 "repo": "vertx-jooq",
-                "stars": 392
+                "stars": 392,
+                "topics": [
+                  "java",
+                  "jdbc",
+                  "jooq",
+                  "reactive",
+                  "rxjava2",
+                  "rxjava3",
+                  "vertx",
+                  "vertx-jooq"
+                ]
               },
               "first_seen": "2026-08-28T14:10:37.689Z"
             },
@@ -513,12 +822,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JDBC support for Vert.x",
+                "homepage": null,
                 "id": 26814908,
                 "language": "Java",
-                "last_commit": "2026-08-28T13:40:20Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T16:26:01Z",
+                "open_issues": 32,
                 "owner": "vert-x3",
                 "repo": "vertx-jdbc-client",
-                "stars": 131
+                "stars": 131,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:10:37.689Z"
             },
@@ -529,12 +843,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This client is deprecated - use instead",
+                "homepage": "https://github.com/eclipse-vertx/vertx-sql-client",
                 "id": 27534295,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2023-05-12T08:58:07Z",
+                "open_issues": 30,
                 "owner": "vert-x3",
                 "repo": "vertx-mysql-postgresql-client",
-                "stars": 121
+                "stars": 121,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:10:37.689Z"
             },
@@ -545,12 +864,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "High performance reactive PostgreSQL client written in Java",
+                "homepage": "https://github.com/eclipse-vertx/vertx-sql-client/tree/3.8/vertx-pg-client",
                 "id": 184532002,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2019-07-19T11:41:10Z",
+                "open_issues": 13,
                 "owner": "vietj",
                 "repo": "reactive-pg-client",
-                "stars": 75
+                "stars": 75,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:10:37.689Z"
             },
@@ -561,12 +885,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Relational database access made simpler and safer",
+                "homepage": null,
                 "id": 16630721,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-20T23:07:43Z",
+                "open_issues": 1,
                 "owner": "susom",
                 "repo": "database",
-                "stars": 44
+                "stars": 44,
+                "topics": [
+                  "accessing-databases",
+                  "database-support",
+                  "java",
+                  "open-source",
+                  "relational-databases",
+                  "sql"
+                ]
               },
               "first_seen": "2026-08-28T14:10:37.689Z"
             },
@@ -577,12 +913,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vert.x jOOQ DSL",
+                "homepage": "https://zero88.github.io/webdocs",
                 "id": 343665974,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-07T08:44:54Z",
+                "open_issues": 33,
                 "owner": "zero88",
                 "repo": "jooqx",
-                "stars": 34
+                "stars": 34,
+                "topics": [
+                  "dsl",
+                  "jooq",
+                  "rql",
+                  "vertx"
+                ]
               },
               "first_seen": "2026-08-28T14:10:37.689Z"
             },
@@ -593,12 +939,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Execute Exposed statements with Vert.x Reactive SQL Client",
+                "homepage": "https://huanshankeji.github.io/exposed-vertx-sql-client/",
                 "id": 491117246,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-25T22:51:16Z",
+                "open_issues": 16,
                 "owner": "huanshankeji",
                 "repo": "exposed-vertx-sql-client",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "jetbrains-exposed",
+                  "kotlin",
+                  "postgresql-client",
+                  "vertx-sql-client"
+                ]
               },
               "first_seen": "2026-08-28T14:10:37.689Z"
             }
@@ -616,12 +972,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SirixDB is an an embeddable, bitemporal, append-only database system and event store, storing immutable lightweight snapshots. It keeps the full history of each resource. Every commit stores a space-efficient snapshot through structural sharing. It is log-structured and never overwrites data. SirixDB uses a novel page-level versioning approach.",
+                "homepage": "https://sirix.io",
                 "id": 4604367,
                 "language": "Java",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-27T22:01:22Z",
+                "open_issues": 6,
                 "owner": "sirixdb",
                 "repo": "sirix",
-                "stars": 1216
+                "stars": 1216,
+                "topics": [
+                  "comparison",
+                  "coroutines",
+                  "diff",
+                  "diff-algorithm",
+                  "diffing",
+                  "hacktoberfest",
+                  "hashing",
+                  "java",
+                  "json",
+                  "jsoniq",
+                  "keycloak",
+                  "kotlin",
+                  "snapshot",
+                  "ssd",
+                  "storage",
+                  "temporal-data",
+                  "versioning",
+                  "vertx",
+                  "xml",
+                  "xquery"
+                ]
               },
               "first_seen": "2026-08-28T14:10:37.689Z"
             },
@@ -632,12 +1014,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Redis client for Vert.x",
+                "homepage": "http://vertx.io",
                 "id": 27546391,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T12:37:41Z",
+                "open_issues": 27,
                 "owner": "vert-x3",
                 "repo": "vertx-redis-client",
-                "stars": 142
+                "stars": 142,
+                "topics": [
+                  "event-loop",
+                  "java",
+                  "non-blocking",
+                  "performance",
+                  "reactive",
+                  "redis",
+                  "redis-client",
+                  "vertx"
+                ]
               },
               "first_seen": "2026-08-28T14:10:37.689Z"
             },
@@ -648,12 +1044,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mongo Client for Eclipse Vert.x",
+                "homepage": "http://vertx.io",
                 "id": 27482483,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-10T14:47:20Z",
+                "open_issues": 27,
                 "owner": "vert-x3",
                 "repo": "vertx-mongo-client",
-                "stars": 63
+                "stars": 63,
+                "topics": [
+                  "async",
+                  "java",
+                  "mongo",
+                  "non-blocking",
+                  "reactive",
+                  "vertx"
+                ]
               },
               "first_seen": "2026-08-28T14:10:37.689Z"
             },
@@ -664,12 +1072,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Execute cassandra statements from a vert.x module",
+                "homepage": null,
                 "id": 16778923,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2023-03-19T12:20:05Z",
+                "open_issues": 7,
                 "owner": "ef-labs",
                 "repo": "vertx-cassandra",
-                "stars": 40
+                "stars": 40,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:10:37.689Z"
             },
@@ -680,12 +1093,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cassandra client for Vert.x",
+                "homepage": null,
                 "id": 144744238,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-10T11:43:49Z",
+                "open_issues": 3,
                 "owner": "vert-x3",
                 "repo": "vertx-cassandra-client",
-                "stars": 35
+                "stars": 35,
+                "topics": [
+                  "cassandra",
+                  "cassandra-client",
+                  "perforomance",
+                  "reactive",
+                  "vertx"
+                ]
               },
               "first_seen": "2026-08-28T14:10:37.689Z"
             },
@@ -696,12 +1120,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Non-Blocking Rxified Vertx aerospike client",
+                "homepage": "https://dream11.github.io/vertx-aerospike-client/",
                 "id": 366925238,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2025-12-22T13:17:02Z",
+                "open_issues": 3,
                 "owner": "dream-horizon-org",
                 "repo": "vertx-aerospike-client",
-                "stars": 32
+                "stars": 32,
+                "topics": [
+                  "aerospike",
+                  "reactive",
+                  "rxjava2",
+                  "vertx"
+                ]
               },
               "first_seen": "2026-08-28T14:10:37.689Z"
             },
@@ -712,12 +1146,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reactive firestore connector",
+                "homepage": null,
                 "id": 186595740,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2022-02-11T00:24:28Z",
+                "open_issues": 2,
                 "owner": "pjgg",
                 "repo": "rxfirestore",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "firestore",
+                  "gcloud-sdk",
+                  "vertx3"
+                ]
               },
               "first_seen": "2026-08-28T14:10:37.689Z"
             },
@@ -728,12 +1171,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 57416385,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2017-11-21T14:55:03Z",
+                "open_issues": 0,
                 "owner": "cstamas",
                 "repo": "vertx-orientdb",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:10:37.689Z"
             },
@@ -744,12 +1192,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vert.X Marklogic client",
+                "homepage": null,
                 "id": 59748607,
                 "language": "Java",
+                "license": "LGPL-3.0",
                 "last_commit": "2016-05-27T21:10:20Z",
+                "open_issues": 0,
                 "owner": "etourdot",
                 "repo": "vertx-marklogic",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:10:37.689Z"
             },
@@ -760,12 +1213,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vert.x Bitsy integration",
+                "homepage": null,
                 "id": 82293201,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2017-02-25T12:17:35Z",
+                "open_issues": 0,
                 "owner": "cstamas",
                 "repo": "vertx-bitsy",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:10:37.689Z"
             },
@@ -776,12 +1234,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Small example showing how to use vertx-grpc client in order to target a running dgraph service",
+                "homepage": null,
                 "id": 138037290,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2019-01-14T07:52:40Z",
+                "open_issues": 0,
                 "owner": "aesteve",
                 "repo": "vertx-dgraph-client",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "dgraph",
+                  "dgraph-client",
+                  "grpc",
+                  "java",
+                  "vertx"
+                ]
               },
               "first_seen": "2026-08-28T14:10:37.689Z"
             },
@@ -792,12 +1261,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vert.x Future API for the Neo4j Java Driver",
+                "homepage": null,
                 "id": 1247501096,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-08-15T07:18:27Z",
+                "open_issues": 0,
                 "owner": "romanbsd",
                 "repo": "neo4j-java-driver-vertx",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:10:37.689Z"
             },
@@ -808,12 +1282,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vertx-MongoDB-Effect enables interaction with MongoDB in a purely functional and reactive style, seamlessly integrating with Vertx-effect. This library requires familiarity with Vertx-effect, as both frameworks share a foundational reliance on immutability and persistent data structures provided by json-values. ",
+                "homepage": null,
                 "id": 891155400,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2024-11-23T22:04:39Z",
+                "open_issues": 0,
                 "owner": "imrafaelmerino",
                 "repo": "vertx-mongo-effect",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "functional-programming",
+                  "javascript",
+                  "json-values",
+                  "mongodb",
+                  "persistent-data-structure",
+                  "reactive-programming",
+                  "vertx",
+                  "vertx-effect"
+                ]
               },
               "first_seen": "2026-08-28T14:10:37.689Z"
             }
@@ -837,12 +1325,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Java Easy SSE (Server-Sent Events) implementation",
+                "homepage": null,
                 "id": 48291052,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2018-11-05T08:38:09Z",
+                "open_issues": 3,
                 "owner": "mariomac",
                 "repo": "jeasse",
-                "stars": 68
+                "stars": 68,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:10:37.689Z"
             },
@@ -853,12 +1346,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Add support for Server-Sent-Events in Vert.x Web",
+                "homepage": null,
                 "id": 35103238,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2019-12-04T10:06:19Z",
+                "open_issues": 3,
                 "owner": "aesteve",
                 "repo": "vertx-sse",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "java",
+                  "server-sent-events",
+                  "sse",
+                  "vertx",
+                  "vertx-web"
+                ]
               },
               "first_seen": "2026-08-28T14:10:37.689Z"
             }
@@ -876,12 +1380,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 30866500,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-07T07:15:12Z",
+                "open_issues": 15,
                 "owner": "vert-x3",
                 "repo": "vertx-mail-client",
-                "stars": 40
+                "stars": 40,
+                "topics": [
+                  "async",
+                  "java",
+                  "mail",
+                  "netty",
+                  "smtp",
+                  "vertx"
+                ]
               },
               "first_seen": "2026-08-28T14:10:37.689Z"
             }
@@ -899,12 +1415,35 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "OpenAPI 3 parser, JSON schema and request validator.",
+                "homepage": "https://www.openapi4j.org/",
                 "id": 218804581,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2021-07-09T15:33:59Z",
+                "open_issues": 21,
                 "owner": "openapi4j",
                 "repo": "openapi4j",
-                "stars": 110
+                "stars": 110,
+                "topics": [
+                  "api",
+                  "graalvm",
+                  "java",
+                  "json-schema",
+                  "openapi",
+                  "openapi-specification",
+                  "openapi3",
+                  "parser",
+                  "request",
+                  "request-validator",
+                  "rest",
+                  "schema",
+                  "schema-validator",
+                  "servlet",
+                  "undertow",
+                  "validation",
+                  "vertx"
+                ]
               },
               "first_seen": "2026-08-28T14:10:37.689Z"
             },
@@ -915,12 +1454,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A highly scalable adapter for Retrofit with Vert.x",
+                "homepage": null,
                 "id": 53220610,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2022-02-27T10:54:51Z",
+                "open_issues": 4,
                 "owner": "vietj",
                 "repo": "retrofit-vertx",
-                "stars": 33
+                "stars": 33,
+                "topics": [
+                  "httpclient",
+                  "java",
+                  "retrofit",
+                  "vertx"
+                ]
               },
               "first_seen": "2026-08-28T14:10:37.689Z"
             },
@@ -931,12 +1480,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vertx-effect brings functional effects to the Vert.x ecosystem and is inspired by Erlang’s actor model. Its manifesto emphasizes principles such as maximizing the use of verticles for scalability, maintaining single responsibility for each verticle, and prioritizing simplicity to enhance reliability and ease debugging.",
+                "homepage": null,
                 "id": 848708696,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2024-11-23T21:56:32Z",
+                "open_issues": 0,
                 "owner": "imrafaelmerino",
                 "repo": "vertx-effect",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "erlang",
+                  "functional-programming",
+                  "java",
+                  "json-values",
+                  "persistent-data-structure",
+                  "vertx",
+                  "vertx-values",
+                  "vertx3"
+                ]
               },
               "first_seen": "2026-08-28T14:10:37.689Z"
             }
@@ -954,12 +1517,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TFTP client for vertx",
+                "homepage": null,
                 "id": 239981668,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2021-06-07T18:41:13Z",
+                "open_issues": 1,
                 "owner": "OneManCrew",
                 "repo": "vertx-tftp-client",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "async",
+                  "asynchronous",
+                  "maven",
+                  "tftp",
+                  "tftp-client",
+                  "tftp-protocol",
+                  "vertx",
+                  "vertx3"
+                ]
               },
               "first_seen": "2026-08-28T14:10:37.689Z"
             }
@@ -977,12 +1554,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An HTTP bridge for Apache Kafka®",
+                "homepage": null,
                 "id": 54389337,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T15:32:43Z",
+                "open_issues": 14,
                 "owner": "strimzi",
                 "repo": "strimzi-kafka-bridge",
-                "stars": 338
+                "stars": 339,
+                "topics": [
+                  "bridge",
+                  "hacktoberfest",
+                  "http",
+                  "kafka",
+                  "kafka-bridge",
+                  "kafka-client",
+                  "kafka-consumer",
+                  "kafka-producer",
+                  "kafka-rest-proxy"
+                ]
               },
               "first_seen": "2026-08-28T14:10:37.689Z"
             },
@@ -993,12 +1585,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vert.x MQTT",
+                "homepage": null,
                 "id": 69547915,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-11T16:17:17Z",
+                "open_issues": 47,
                 "owner": "vert-x3",
                 "repo": "vertx-mqtt",
-                "stars": 214
+                "stars": 214,
+                "topics": [
+                  "client",
+                  "iot",
+                  "mqtt",
+                  "reactive",
+                  "rxjava",
+                  "rxjava2",
+                  "server",
+                  "vertx"
+                ]
               },
               "first_seen": "2026-08-28T14:10:37.689Z"
             },
@@ -1009,12 +1615,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kotlin coroutine based library for RabbitMQ",
+                "homepage": null,
                 "id": 164432364,
                 "language": "Kotlin",
+                "license": "MIT",
                 "last_commit": "2026-08-25T13:59:04Z",
+                "open_issues": 13,
                 "owner": "viartemev",
                 "repo": "rabbitmq-kotlin",
-                "stars": 130
+                "stars": 130,
+                "topics": [
+                  "amqp",
+                  "coroutines",
+                  "kotlin",
+                  "kotlin-channel",
+                  "kotlin-coroutines",
+                  "kotlin-flow",
+                  "library",
+                  "rabbitmq",
+                  "rabbitmq-client"
+                ]
               },
               "first_seen": "2026-08-28T14:10:37.689Z"
             },
@@ -1025,12 +1646,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reactive Kafka Client for Vert.x",
+                "homepage": null,
                 "id": 75084353,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-10T14:00:15Z",
+                "open_issues": 29,
                 "owner": "vert-x3",
                 "repo": "vertx-kafka-client",
-                "stars": 90
+                "stars": 90,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:10:37.689Z"
             },
@@ -1041,12 +1667,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reactive Kafka Client for Vert.x",
+                "homepage": null,
                 "id": 75084353,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-10T14:00:15Z",
+                "open_issues": 29,
                 "owner": "vert-x3",
                 "repo": "vertx-kafka-client",
-                "stars": 90
+                "stars": 90,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:10:37.689Z"
             },
@@ -1057,12 +1688,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vert.x RabbitMQ Service",
+                "homepage": null,
                 "id": 29024996,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-07T07:15:15Z",
+                "open_issues": 16,
                 "owner": "vert-x3",
                 "repo": "vertx-rabbitmq-client",
-                "stars": 76
+                "stars": 76,
+                "topics": [
+                  "rabbitmq",
+                  "reactive",
+                  "vertx"
+                ]
               },
               "first_seen": "2026-08-28T14:10:37.689Z"
             },
@@ -1073,12 +1713,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "STOMP client/server implementation",
+                "homepage": null,
                 "id": 40484506,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-07T07:15:30Z",
+                "open_issues": 22,
                 "owner": "vert-x3",
                 "repo": "vertx-stomp",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:10:37.689Z"
             },
@@ -1089,12 +1734,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 40741072,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2016-03-21T22:50:05Z",
+                "open_issues": 3,
                 "owner": "cyngn",
                 "repo": "vertx-kafka",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:10:37.689Z"
             },
@@ -1105,12 +1755,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A ZeroMQ Event Bus bridge for Vert.x 3.x.",
+                "homepage": null,
                 "id": 56456878,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-01-15T22:52:47Z",
+                "open_issues": 2,
                 "owner": "dano",
                 "repo": "vertx-zeromq",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:10:37.689Z"
             },
@@ -1121,12 +1776,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 44739364,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-05T00:11:07Z",
+                "open_issues": 2,
                 "owner": "vert-x3",
                 "repo": "vertx-amqp-bridge",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:10:37.689Z"
             },
@@ -1137,12 +1797,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple WAMP broker for your Vert.x-based application",
+                "homepage": null,
                 "id": 323297071,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2021-04-03T21:50:43Z",
+                "open_issues": 2,
                 "owner": "i22-digitalagentur",
                 "repo": "vertx-wamp",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:10:37.689Z"
             },
@@ -1153,12 +1818,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 63057895,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2023-12-15T02:31:43Z",
+                "open_issues": 0,
                 "owner": "TextBack",
                 "repo": "vertx-azure-servicebus",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:10:37.689Z"
             }
@@ -1176,12 +1846,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 55776486,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2021-01-26T08:18:17Z",
+                "open_issues": 4,
                 "owner": "weld",
                 "repo": "weld-vertx",
-                "stars": 48
+                "stars": 48,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:10:37.689Z"
             },
@@ -1192,12 +1867,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repository for all Vertx-JCA related information, development etc",
+                "homepage": null,
                 "id": 26169149,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2023-05-12T08:58:37Z",
+                "open_issues": 1,
                 "owner": "vert-x3",
                 "repo": "vertx-jca",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:10:37.689Z"
             }
@@ -1215,12 +1895,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Vert.x Event Bus Package allows any meteor app to be able to connect to Vert.x Components",
+                "homepage": null,
                 "id": 36451474,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-10-23T03:24:04Z",
+                "open_issues": 0,
                 "owner": "jmusacchio",
                 "repo": "vertxbus",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:10:37.689Z"
             }
@@ -1238,12 +1923,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vert.x metrics implementation for Micrometer.io",
+                "homepage": null,
                 "id": 116847882,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T12:44:18Z",
+                "open_issues": 1,
                 "owner": "vert-x3",
                 "repo": "vertx-micrometer-metrics",
-                "stars": 55
+                "stars": 55,
+                "topics": [
+                  "influxdb",
+                  "java",
+                  "micrometer",
+                  "monitoring",
+                  "prometheus",
+                  "reactive",
+                  "vertx"
+                ]
               },
               "first_seen": "2026-08-28T14:10:37.689Z"
             },
@@ -1254,12 +1952,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vert.x Metrics",
+                "homepage": null,
                 "id": 27481624,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-07T07:14:08Z",
+                "open_issues": 4,
                 "owner": "vert-x3",
                 "repo": "vertx-dropwizard-metrics",
-                "stars": 35
+                "stars": 35,
+                "topics": [
+                  "dropwizard-metrics",
+                  "hawtio",
+                  "java",
+                  "jmxtrans",
+                  "vertx"
+                ]
               },
               "first_seen": "2026-08-28T14:10:37.689Z"
             },
@@ -1270,12 +1979,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 34707223,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2016-03-21T22:59:36Z",
+                "open_issues": 2,
                 "owner": "cyngn",
                 "repo": "vertx-opentsdb",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:10:37.689Z"
             },
@@ -1286,12 +2000,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "[DEPRECATED] Hawkular implementation of the Vert.x Metrics SPI",
+                "homepage": null,
                 "id": 33942471,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2015-11-14T13:30:28Z",
+                "open_issues": 0,
                 "owner": "tsegismont",
                 "repo": "vertx-monitor",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:10:37.689Z"
             },
@@ -1302,12 +2021,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 39458869,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2015-09-15T21:05:18Z",
+                "open_issues": 0,
                 "owner": "cyngn",
                 "repo": "vertx-bosun",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:10:37.689Z"
             }
@@ -1325,12 +2049,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vert.x implementation of a Hystrix Events Metrics Stream",
+                "homepage": null,
                 "id": 54421351,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2016-10-03T17:54:38Z",
+                "open_issues": 2,
                 "owner": "kennedyoliveira",
                 "repo": "hystrix-vertx-metrics-stream",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "event-stream",
+                  "hystrix",
+                  "hystrix-dashboard",
+                  "metrics",
+                  "vertx"
+                ]
               },
               "first_seen": "2026-08-28T14:10:37.689Z"
             }
@@ -1348,12 +2083,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 209055185,
                 "language": null,
+                "license": null,
                 "last_commit": "2019-09-17T13:01:58Z",
+                "open_issues": 0,
                 "owner": "wem",
                 "repo": "vertx-dart-sockjs",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:10:37.689Z"
             }
@@ -1371,12 +2111,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Send push notifications asynchronously in your vertx application with OneSignal.",
+                "homepage": null,
                 "id": 78532228,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2020-10-12T20:55:17Z",
+                "open_issues": 1,
                 "owner": "jklingsporn",
                 "repo": "vertx-push-onesignal",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "java",
+                  "onesignal",
+                  "onesignal-notifications",
+                  "push-notifications",
+                  "vertx"
+                ]
               },
               "first_seen": "2026-08-28T14:10:37.689Z"
             }
@@ -1394,12 +2145,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Java SDK for CloudEvents",
+                "homepage": "https://cloudevents.github.io/sdk-java/",
                 "id": 149663208,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-16T19:48:59Z",
+                "open_issues": 78,
                 "owner": "cloudevents",
                 "repo": "sdk-java",
-                "stars": 445
+                "stars": 445,
+                "topics": [
+                  "cloudevents",
+                  "hacktoberfest",
+                  "java-api",
+                  "kafka",
+                  "sdk-java"
+                ]
               },
               "first_seen": "2026-08-28T14:10:37.689Z"
             }
@@ -1418,12 +2180,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gateleen is a RESTful middleware toolkit for building API gateways",
+            "homepage": null,
             "id": 52609528,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T09:47:57Z",
+            "open_issues": 48,
             "owner": "swisspost",
             "repo": "gateleen",
-            "stars": 84
+            "stars": 84,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -1434,12 +2201,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "API Framework is structured code/pattern/project template for you to write API based system using Vertx Framework (http://vertx.io/).",
+            "homepage": "https://vinscom.github.io/api-framework-start/",
             "id": 110141650,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-01-15T22:52:41Z",
+            "open_issues": 2,
             "owner": "vinscom",
             "repo": "api-framework",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "amazon-api-gateway",
+              "amazon-lambda",
+              "api-framwork",
+              "docker",
+              "keycloak",
+              "vertx"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         }
@@ -1456,12 +2235,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vert.x is a tool-kit for building reactive applications on the JVM",
+            "homepage": "https://vertx.io",
             "id": 1911523,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T10:09:44Z",
+            "open_issues": 230,
             "owner": "eclipse-vertx",
             "repo": "vert.x",
-            "stars": 14686
+            "stars": 14687,
+            "topics": [
+              "concurrency",
+              "event-loop",
+              "high-performance",
+              "http2",
+              "java",
+              "jvm",
+              "netty",
+              "nio",
+              "non-blocking",
+              "reactive",
+              "vertx"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -1472,12 +2268,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚀 fast JavaScript 4 Eclipse Vert.x",
+            "homepage": "https://reactiverse.io/es4x/",
             "id": 125225914,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2025-12-19T22:50:39Z",
+            "open_issues": 53,
             "owner": "reactiverse",
             "repo": "es4x",
-            "stars": 891
+            "stars": 891,
+            "topics": [
+              "graaljs",
+              "graalvm",
+              "hacktoberfest2021",
+              "java",
+              "javascript",
+              "language-support",
+              "typescript",
+              "typescript-definitions",
+              "vertx"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -1488,12 +2299,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vert.x for Kotlin",
+            "homepage": null,
             "id": 72456215,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-07T07:13:56Z",
+            "open_issues": 11,
             "owner": "vert-x3",
             "repo": "vertx-lang-kotlin",
-            "stars": 302
+            "stars": 302,
+            "topics": [
+              "async",
+              "coroutines",
+              "kotlin",
+              "non-blocking",
+              "vertx"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -1504,12 +2326,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vert.x for Scala",
+            "homepage": "http://vert-x3.github.io/vertx-lang-scala/",
             "id": 26167102,
             "language": "Scala",
+            "license": null,
             "last_commit": "2025-10-14T01:10:47Z",
+            "open_issues": 13,
             "owner": "reactiverse",
             "repo": "vertx-lang-scala",
-            "stars": 124
+            "stars": 124,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -1520,12 +2347,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nashorn JavaScript implementation for Vert.x",
+            "homepage": null,
             "id": 21415560,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-10-17T16:29:35Z",
+            "open_issues": 11,
             "owner": "vert-x3",
             "repo": "vertx-lang-js",
-            "stars": 35
+            "stars": 35,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -1536,12 +2368,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vert.x Ruby support",
+            "homepage": null,
             "id": 29028655,
             "language": "Ruby",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-10T22:42:19Z",
+            "open_issues": 8,
             "owner": "vert-x3",
             "repo": "vertx-lang-ruby",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -1552,12 +2389,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vert.x Groovy support",
+            "homepage": null,
             "id": 21979411,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-07T07:13:53Z",
+            "open_issues": 0,
             "owner": "vert-x3",
             "repo": "vertx-lang-groovy",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -1568,12 +2410,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Vert.x 3 code generator for Ceylon",
+            "homepage": null,
             "id": 38437210,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2021-06-08T20:36:57Z",
+            "open_issues": 0,
             "owner": "vert-x3",
             "repo": "vertx-lang-ceylon",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -1584,12 +2431,30 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "vertx php support",
+            "homepage": null,
             "id": 123551916,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2022-01-05T01:23:30Z",
+            "open_issues": 0,
             "owner": "vert-x-cn",
             "repo": "vertx-lang-jphp",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "graphviz",
+              "java",
+              "maven",
+              "php",
+              "phpdoc",
+              "phpdocumentor",
+              "polyglot",
+              "vert-lang-php",
+              "verticle",
+              "vertx",
+              "vertx-lang-jphp",
+              "vertx3"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -1600,12 +2465,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 26467642,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2016-05-13T20:39:06Z",
+            "open_issues": 0,
             "owner": "vert-x3",
             "repo": "vertx-lang-python",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -1616,12 +2486,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Extension module for vertx-groovy adding methods and syntaxic sugar",
+            "homepage": null,
             "id": 47360377,
             "language": "Groovy",
+            "license": "Apache-2.0",
             "last_commit": "2016-05-23T19:35:03Z",
+            "open_issues": 6,
             "owner": "aesteve",
             "repo": "grooveex",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "async",
+              "dsl",
+              "groovy",
+              "vertx",
+              "vertx-web"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         }
@@ -1638,12 +2519,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Java microservice lib. QBit is a reactive programming lib for building microservices - JSON, HTTP, WebSocket, and REST. QBit uses reactive programming to build elastic REST, and WebSockets based cloud friendly, web services. SOA evolved for mobile and cloud.  ServiceDiscovery, Health, reactive StatService, events, Java idiomatic reactive programming for Microservices.",
+            "homepage": "http://advantageous.github.io/qbit/",
             "id": 23338118,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2018-01-18T19:02:18Z",
+            "open_issues": 61,
             "owner": "advantageous",
             "repo": "qbit",
-            "stars": 707
+            "stars": 707,
+            "topics": [
+              "actor",
+              "aws",
+              "health",
+              "java",
+              "microservice",
+              "monitoring",
+              "qbit",
+              "websocket",
+              "websocket-support"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -1654,12 +2550,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vert.x for Kotlin",
+            "homepage": null,
             "id": 72456215,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-07T07:13:56Z",
+            "open_issues": 11,
             "owner": "vert-x3",
             "repo": "vertx-lang-kotlin",
-            "stars": 302
+            "stars": 302,
+            "topics": [
+              "async",
+              "coroutines",
+              "kotlin",
+              "non-blocking",
+              "vertx"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -1670,12 +2577,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reactive Extensions for Vert.x",
+            "homepage": null,
             "id": 26966705,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-07T07:14:03Z",
+            "open_issues": 5,
             "owner": "vert-x3",
             "repo": "vertx-rx",
-            "stars": 155
+            "stars": 155,
+            "topics": [
+              "java",
+              "rxjava",
+              "rxjava2",
+              "rxjs",
+              "vertx"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -1686,12 +2604,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 36552538,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2025-05-02T08:23:47Z",
+            "open_issues": 14,
             "owner": "vert-x3",
             "repo": "vertx-sync",
-            "stars": 99
+            "stars": 99,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -1702,12 +2625,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 27482840,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-07T07:14:06Z",
+            "open_issues": 4,
             "owner": "vert-x3",
             "repo": "vertx-reactive-streams",
-            "stars": 50
+            "stars": 50,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -1718,12 +2646,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "general purpose utils for interacting with vert.x",
+            "homepage": null,
             "id": 39918400,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2016-03-21T22:52:37Z",
+            "open_issues": 0,
             "owner": "cyngn",
             "repo": "vertx-util",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -1734,12 +2667,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vertx-effect brings functional effects to the Vert.x ecosystem and is inspired by Erlang’s actor model. Its manifesto emphasizes principles such as maximizing the use of verticles for scalability, maintaining single responsibility for each verticle, and prioritizing simplicity to enhance reliability and ease debugging.",
+            "homepage": null,
             "id": 848708696,
             "language": "Java",
+            "license": null,
             "last_commit": "2024-11-23T21:56:32Z",
+            "open_issues": 0,
             "owner": "imrafaelmerino",
             "repo": "vertx-effect",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "erlang",
+              "functional-programming",
+              "java",
+              "json-values",
+              "persistent-data-structure",
+              "vertx",
+              "vertx-values",
+              "vertx3"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         }
@@ -1756,12 +2703,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Pure 100% java reactive-style client-side webpages with POJO traffic, jUnit GUI testing, declarative view-on-model, automatic browser reloading and more.",
+            "homepage": null,
             "id": 75275285,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2019-05-16T07:18:39Z",
+            "open_issues": 0,
             "owner": "nielsbaloe",
             "repo": "vertxui",
-            "stars": 124
+            "stars": 124,
+            "topics": [
+              "clientside",
+              "html5",
+              "java",
+              "java-lambda",
+              "junit",
+              "pojo",
+              "toolkit",
+              "vertx"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -1772,12 +2733,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Go Client for the Eclipse Vert.x TCP EventBus Bridge",
+            "homepage": null,
             "id": 53195986,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2018-03-15T15:59:16Z",
+            "open_issues": 0,
             "owner": "jponge",
             "repo": "vertx-go-tcp-eventbus-bridge",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -1788,12 +2754,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Vert.x EventBus client written in Java, works on Android",
+            "homepage": null,
             "id": 48456832,
             "language": "Java",
+            "license": null,
             "last_commit": "2017-08-29T09:04:00Z",
+            "open_issues": 3,
             "owner": "abdlquadri",
             "repo": "vertx-eventbus-java",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "android",
+              "eventbus",
+              "java",
+              "vertx"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -1804,12 +2780,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Event Bus bridge for Java applications interacting remotely with Vert.x ",
+            "homepage": null,
             "id": 39237126,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2018-11-15T23:29:39Z",
+            "open_issues": 5,
             "owner": "saffron-technology",
             "repo": "vertx-eventbusbridge",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -1820,12 +2801,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "C++11 Vert.x 3 event bus client",
+            "homepage": null,
             "id": 37644817,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2017-04-10T15:41:38Z",
+            "open_issues": 1,
             "owner": "julien3",
             "repo": "vertxbuspp",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -1836,12 +2822,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Connector to Vert.x event bus via TCP Event Bus Bridge",
+            "homepage": "https://pharosproduction.com",
             "id": 175656056,
             "language": "Elixir",
+            "license": "Apache-2.0",
             "last_commit": "2024-12-08T16:41:11Z",
+            "open_issues": 0,
             "owner": "PharosProduction",
             "repo": "ExVertx",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "elixir",
+              "elixir-lang",
+              "elixir-language",
+              "elixir-library",
+              "elixir-programming-language",
+              "elixir-to-vertx",
+              "elixir-wrapper",
+              "vertx",
+              "vertx-elixir",
+              "vertx-eventbus",
+              "vertx3",
+              "vertxbus"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -1852,12 +2856,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple Java Vertx  Eventbus  TCP-Client without any dependencies",
+            "homepage": null,
             "id": 147809424,
             "language": "Java",
+            "license": null,
             "last_commit": "2025-06-17T11:37:09Z",
+            "open_issues": 2,
             "owner": "danielstieger",
             "repo": "javaxbus",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -1868,12 +2877,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "vertx tcp eventbus client module for python",
+            "homepage": null,
             "id": 60855572,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2016-08-05T13:56:20Z",
+            "open_issues": 2,
             "owner": "jaymine",
             "repo": "TCP-eventbus-client-Python",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -1884,12 +2898,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Vert.x TCP EventBus client for Smalltalk",
+            "homepage": null,
             "id": 95305484,
             "language": "Smalltalk",
+            "license": "MIT",
             "last_commit": "2017-07-03T13:58:42Z",
+            "open_issues": 0,
             "owner": "mumez",
             "repo": "VerStix",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "eventbus",
+              "pharo",
+              "vertx"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -1900,12 +2923,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rust client for Vert.x TCP event-bus bridge",
+            "homepage": null,
             "id": 273219640,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2023-01-09T13:01:31Z",
+            "open_issues": 4,
             "owner": "aesteve",
             "repo": "vertx-eventbus-client-rs",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "crates-io",
+              "eventbus",
+              "eventbus-library",
+              "rust",
+              "rust-lang",
+              "rust-library",
+              "vertx",
+              "vertx3"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -1916,12 +2953,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "vertx tcp eventbus client module for C#",
+            "homepage": null,
             "id": 61745700,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2016-12-16T04:05:39Z",
+            "open_issues": 2,
             "owner": "jaymine",
             "repo": "TCP-eventbus-client-C-Sharp",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -1932,12 +2974,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lib for using the Vert.x TCP EventBus bridge from Swift",
+            "homepage": null,
             "id": 58749402,
             "language": "Swift",
+            "license": "Apache-2.0",
             "last_commit": "2018-04-24T14:50:30Z",
+            "open_issues": 6,
             "owner": "tobias",
             "repo": "vertx-swift-eventbus",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -1948,12 +2995,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "vertx tcp eventbus client module for C",
+            "homepage": null,
             "id": 63805151,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2016-08-09T16:53:38Z",
+            "open_issues": 0,
             "owner": "jaymine",
             "repo": "TCP-eventbus-client-C",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -1964,12 +3016,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "command line client for Vert.x event bus tcp bridge",
+            "homepage": "http://vertx.io",
             "id": 62604357,
             "language": "Go",
+            "license": null,
             "last_commit": "2017-02-06T20:52:07Z",
+            "open_issues": 0,
             "owner": "cinterloper",
             "repo": "vxc",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         }
@@ -1986,12 +3043,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hazelcast Cluster Manager for Vert.x",
+            "homepage": null,
             "id": 26684056,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T14:21:10Z",
+            "open_issues": 2,
             "owner": "vert-x3",
             "repo": "vertx-hazelcast",
-            "stars": 82
+            "stars": 82,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -2002,12 +3064,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Zookeeper based cluster manager implementation",
+            "homepage": null,
             "id": 32725442,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-07T07:14:54Z",
+            "open_issues": 31,
             "owner": "vert-x3",
             "repo": "vertx-zookeeper",
-            "stars": 75
+            "stars": 75,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -2018,12 +3085,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 52444045,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-07T07:14:51Z",
+            "open_issues": 3,
             "owner": "vert-x3",
             "repo": "vertx-ignite",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -2034,12 +3106,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Consul - based cluster manager that can be plugged into Vert.x ecosystem.",
+            "homepage": null,
             "id": 169048532,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2023-12-05T22:20:17Z",
+            "open_issues": 11,
             "owner": "reactiverse",
             "repo": "consul-cluster-manager",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "cluster-manager",
+              "clustering",
+              "consul",
+              "distributed-counter",
+              "distributed-lock",
+              "distributed-map",
+              "vertx"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -2050,12 +3135,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Infinispan Cluster Manager for Vert.x",
+            "homepage": null,
             "id": 69944043,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-07T07:14:49Z",
+            "open_issues": 5,
             "owner": "vert-x3",
             "repo": "vertx-infinispan",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -2066,12 +3156,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "JGroups based cluster manager implementation",
+            "homepage": null,
             "id": 30292189,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2018-08-01T22:02:03Z",
+            "open_issues": 0,
             "owner": "vert-x3",
             "repo": "vertx-jgroups",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         }
@@ -2088,12 +3183,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Using vertx-client for AWS SDK v2",
+            "homepage": null,
             "id": 158650975,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2023-09-11T07:16:33Z",
+            "open_issues": 7,
             "owner": "reactiverse",
             "repo": "aws-sdk",
-            "stars": 51
+            "stars": 51,
+            "topics": [
+              "aws-sdk",
+              "java",
+              "netty",
+              "non-blocking",
+              "performance",
+              "reactive",
+              "scalability",
+              "vertx"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -2104,12 +3213,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 36496125,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2018-03-07T07:50:47Z",
+            "open_issues": 0,
             "owner": "vert-x3",
             "repo": "vertx-openshift-cartridge",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -2120,12 +3234,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 36496107,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2016-10-13T09:58:35Z",
+            "open_issues": 0,
             "owner": "vert-x3",
             "repo": "vertx-openshift-diy-quickstart",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         }
@@ -2142,12 +3261,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Resilience4j is a fault tolerance library designed for Java8 and functional programming",
+            "homepage": null,
             "id": 36793280,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-08T06:46:06Z",
+            "open_issues": 303,
             "owner": "resilience4j",
             "repo": "resilience4j",
-            "stars": 10752
+            "stars": 10752,
+            "topics": [
+              "bulkhead",
+              "circuitbreaker",
+              "metrics",
+              "rate-limiter",
+              "resilience",
+              "retry"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -2158,12 +3289,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fault tolerance and resilience patterns for the JVM",
+            "homepage": "https://failsafe.dev",
             "id": 38279457,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2025-12-28T01:41:28Z",
+            "open_issues": 79,
             "owner": "failsafe-lib",
             "repo": "failsafe",
-            "stars": 4310
+            "stars": 4310,
+            "topics": [
+              "bulkhead",
+              "circuit-breaker",
+              "fallback",
+              "java",
+              "rate-limiter",
+              "resilience",
+              "resiliency-patterns",
+              "retry",
+              "timeout"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -2174,12 +3320,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ServiceComb Java Chassis is a Software Development Kit (SDK) for rapid development of microservices in Java, providing service registration, service discovery, dynamic routing, and service management features",
+            "homepage": null,
             "id": 91674936,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-01T07:32:28Z",
+            "open_issues": 230,
             "owner": "apache",
             "repo": "servicecomb-java-chassis",
-            "stars": 1940
+            "stars": 1940,
+            "topics": [
+              "servicecomb"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -2190,12 +3343,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Some tools one can use for doing microservices with Vert.x",
+            "homepage": null,
             "id": 54370839,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-07T07:14:36Z",
+            "open_issues": 14,
             "owner": "vert-x3",
             "repo": "vertx-service-discovery",
-            "stars": 121
+            "stars": 121,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -2206,12 +3364,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Some tools one can use for doing microservices with Vert.x",
+            "homepage": null,
             "id": 54370839,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-07T07:14:36Z",
+            "open_issues": 14,
             "owner": "vert-x3",
             "repo": "vertx-service-discovery",
-            "stars": 121
+            "stars": 121,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -2222,12 +3385,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Some tools one can use for doing microservices with Vert.x",
+            "homepage": null,
             "id": 54370839,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-07T07:14:36Z",
+            "open_issues": 14,
             "owner": "vert-x3",
             "repo": "vertx-service-discovery",
-            "stars": 121
+            "stars": 121,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -2238,12 +3406,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Some tools one can use for doing microservices with Vert.x",
+            "homepage": null,
             "id": 54370839,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-07T07:14:36Z",
+            "open_issues": 14,
             "owner": "vert-x3",
             "repo": "vertx-service-discovery",
-            "stars": 121
+            "stars": 121,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -2254,12 +3427,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Some tools one can use for doing microservices with Vert.x",
+            "homepage": null,
             "id": 54370839,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-07T07:14:36Z",
+            "open_issues": 14,
             "owner": "vert-x3",
             "repo": "vertx-service-discovery",
-            "stars": 121
+            "stars": 121,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -2270,12 +3448,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SmallRye implementation of MicroProfile Fault Tolerance: bulkheads, circuit breakers, fallbacks, rate limits, retries, timeouts, and more",
+            "homepage": null,
             "id": 134901064,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T07:49:10Z",
+            "open_issues": 9,
             "owner": "smallrye",
             "repo": "smallrye-fault-tolerance",
-            "stars": 113
+            "stars": 113,
+            "topics": [
+              "microprofile"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -2286,12 +3471,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A circuit breaker for Vert.x",
+            "homepage": null,
             "id": 59482892,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-13T18:50:11Z",
+            "open_issues": 7,
             "owner": "vert-x3",
             "repo": "vertx-circuit-breaker",
-            "stars": 67
+            "stars": 67,
+            "topics": [
+              "async",
+              "circuitbreaker",
+              "java",
+              "microservices",
+              "vertx"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -2302,12 +3498,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Service discovery and querying of GraphQL schema's in Vert.x based microservices",
+            "homepage": null,
             "id": 63377572,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2021-11-12T06:18:51Z",
+            "open_issues": 5,
             "owner": "engagingspaces",
             "repo": "vertx-graphql-service-discovery",
-            "stars": 53
+            "stars": 53,
+            "topics": [
+              "graphql",
+              "microservices",
+              "service-discovery",
+              "vertx",
+              "vertx-service-discovery"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -2318,12 +3525,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Autonomous Services",
+            "homepage": null,
             "id": 114892199,
             "language": "Kotlin",
+            "license": "MIT",
             "last_commit": "2019-10-13T09:55:08Z",
+            "open_issues": 0,
             "owner": "mikand13",
             "repo": "autonomous-services",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "architecture",
+              "autonomy",
+              "cloud",
+              "microservices",
+              "vertx"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         }
@@ -2340,12 +3558,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vert.x elasticsearch service with event bus proxying",
+            "homepage": null,
             "id": 11829082,
             "language": "Java",
+            "license": null,
             "last_commit": "2016-11-18T17:53:43Z",
+            "open_issues": 6,
             "owner": "ef-labs",
             "repo": "vertx-elasticsearch-service",
-            "stars": 60
+            "stars": 60,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -2356,12 +3579,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vert.x Solr Service",
+            "homepage": null,
             "id": 20576483,
             "language": "Java",
+            "license": null,
             "last_commit": "2016-11-07T20:33:50Z",
+            "open_issues": 2,
             "owner": "ef-labs",
             "repo": "vertx-solr-service",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         }
@@ -2378,12 +3606,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Service Factory implementation",
+            "homepage": null,
             "id": 25202458,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-07T07:14:24Z",
+            "open_issues": 0,
             "owner": "vert-x3",
             "repo": "vertx-service-factory",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -2394,12 +3627,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Verticle factory for resolving verticles from Maven at run-time",
+            "homepage": null,
             "id": 23218278,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-07T07:14:26Z",
+            "open_issues": 5,
             "owner": "vert-x3",
             "repo": "vertx-maven-service-factory",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -2410,12 +3648,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 34790639,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-07T07:14:29Z",
+            "open_issues": 1,
             "owner": "vert-x3",
             "repo": "vertx-http-service-factory",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -2426,12 +3669,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Experimental nodejs service and verticle factories for vert.x-x3",
+            "homepage": "https://hotschedules.com/bodhi/",
             "id": 43333140,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2015-12-17T19:33:43Z",
+            "open_issues": 0,
             "owner": "mellster2012",
             "repo": "vertx-nodejs-service-factory",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -2442,12 +3690,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create Vert.x Modules and Verticles with dependency injection using Eclipse Sisu",
+            "homepage": null,
             "id": 47260703,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2017-03-30T08:00:10Z",
+            "open_issues": 0,
             "owner": "cstamas",
             "repo": "vertx-sisu",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         }
@@ -2464,12 +3717,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Eclipse Vert.x verticle to boot an application from HOCON configuration.",
+            "homepage": null,
             "id": 120518773,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2020-12-18T08:47:08Z",
+            "open_issues": 0,
             "owner": "jponge",
             "repo": "vertx-boot",
-            "stars": 45
+            "stars": 45,
+            "topics": [
+              "configuration",
+              "deployment",
+              "hocon",
+              "microservice",
+              "reactive",
+              "vertx"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -2480,12 +3745,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Vert.X (v3) Config Store backed by AWS SSM.",
+            "homepage": null,
             "id": 107288508,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2018-10-08T17:19:06Z",
+            "open_issues": 0,
             "owner": "Finovertech",
             "repo": "vertx-config-aws-ssm",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         }
@@ -2502,12 +3772,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Java microservice lib. QBit is a reactive programming lib for building microservices - JSON, HTTP, WebSocket, and REST. QBit uses reactive programming to build elastic REST, and WebSockets based cloud friendly, web services. SOA evolved for mobile and cloud.  ServiceDiscovery, Health, reactive StatService, events, Java idiomatic reactive programming for Microservices.",
+            "homepage": "http://advantageous.github.io/qbit/",
             "id": 23338118,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2018-01-18T19:02:18Z",
+            "open_issues": 61,
             "owner": "advantageous",
             "repo": "qbit",
-            "stars": 707
+            "stars": 707,
+            "topics": [
+              "actor",
+              "aws",
+              "health",
+              "java",
+              "microservice",
+              "monitoring",
+              "qbit",
+              "websocket",
+              "websocket-support"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -2518,12 +3803,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create Vert.x Modules and Verticles with dependency injection using Guice",
+            "homepage": null,
             "id": 12255838,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2019-11-02T02:35:17Z",
+            "open_issues": 3,
             "owner": "ef-labs",
             "repo": "vertx-guice",
-            "stars": 63
+            "stars": 63,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -2534,12 +3824,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A spring vertx mod which creates spring aware verticles",
+            "homepage": null,
             "id": 17456242,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2019-04-03T17:04:46Z",
+            "open_issues": 1,
             "owner": "amoAHCP",
             "repo": "spring-vertx-ext",
-            "stars": 50
+            "stars": 50,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -2550,12 +3845,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create Vert.x Verticles with dependency injection using HK2",
+            "homepage": null,
             "id": 9239163,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2021-10-28T02:09:22Z",
+            "open_issues": 2,
             "owner": "ef-labs",
             "repo": "vertx-hk2",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -2566,12 +3866,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Inject Vert.x objects as beans into your Spring application",
+            "homepage": null,
             "id": 41862580,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-01-26T21:40:24Z",
+            "open_issues": 3,
             "owner": "rworsnop",
             "repo": "vertx-beans",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -2582,12 +3887,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An implementation of a Vert.x Verticle Factory using Spring",
+            "homepage": null,
             "id": 72679543,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2025-03-23T21:51:22Z",
+            "open_issues": 0,
             "owner": "juanavelez",
             "repo": "vertx-spring-verticle-factory",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "reactive",
+              "spring",
+              "vertx"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -2598,12 +3912,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create Vert.x Modules and Verticles with dependency injection using Eclipse Sisu",
+            "homepage": null,
             "id": 47260703,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2017-03-30T08:00:10Z",
+            "open_issues": 0,
             "owner": "cstamas",
             "repo": "vertx-sisu",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -2614,12 +3933,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Proven and opinionated programming, and configuration model for Java and Vertx based applications. Inspired from ATG Nucleus, provides powerful layer base configuration management using simple properties file.",
+            "homepage": "https://vinscom.github.io/glue/",
             "id": 104414534,
             "language": "Java",
+            "license": null,
             "last_commit": "2022-01-04T16:31:31Z",
+            "open_issues": 4,
             "owner": "vinscom",
             "repo": "glue",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "atg",
+              "dependency-injection",
+              "ioc",
+              "nucleus",
+              "spring"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         }
@@ -2636,12 +3966,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Testing Vert.x applications with JUnit 5",
+            "homepage": "https://vertx.io/docs/vertx-junit5/java/",
             "id": 112714184,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T15:07:04Z",
+            "open_issues": 11,
             "owner": "eclipse-vertx",
             "repo": "vertx-junit5",
-            "stars": 43
+            "stars": 43,
+            "topics": [
+              "junit5",
+              "reactive",
+              "testing",
+              "vertx"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -2652,12 +3992,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Async polyglot unit testing for Vert.x.",
+            "homepage": null,
             "id": 29251724,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-07T07:13:58Z",
+            "open_issues": 9,
             "owner": "vert-x3",
             "repo": "vertx-unit",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "async",
+              "concurrent",
+              "junit",
+              "testing",
+              "vertx"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -2668,12 +4019,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightweight mongo mocking for Vert.x",
+            "homepage": null,
             "id": 243788128,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-07T11:54:23Z",
+            "open_issues": 0,
             "owner": "NoEnv",
             "repo": "vertx-wiremongo",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "integration-testing",
+              "mock",
+              "mongodb",
+              "mongomock",
+              "test",
+              "vertx",
+              "vertx-mongo-client"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         }
@@ -2690,12 +4054,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)",
+            "homepage": "https://openapi-generator.tech",
             "id": 133134007,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T04:15:32Z",
+            "open_issues": 5710,
             "owner": "OpenAPITools",
             "repo": "openapi-generator",
-            "stars": 26689
+            "stars": 26696,
+            "topics": [
+              "api",
+              "api-client",
+              "api-server",
+              "generator",
+              "hacktoberfest",
+              "openapi",
+              "openapi-generator",
+              "openapi3",
+              "rest",
+              "rest-api",
+              "rest-client",
+              "restful-api",
+              "sdk"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -2706,12 +4089,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Maven plugin for hot-deploy of Vert.x projects",
+            "homepage": null,
             "id": 44138404,
             "language": "Java",
+            "license": null,
             "last_commit": "2016-02-24T23:32:39Z",
+            "open_issues": 10,
             "owner": "dazraf",
             "repo": "vertx-hot",
-            "stars": 49
+            "stars": 49,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -2722,12 +4110,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The shell for Vert.x",
+            "homepage": null,
             "id": 39257280,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-10T15:02:42Z",
+            "open_issues": 10,
             "owner": "vert-x3",
             "repo": "vertx-shell",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -2738,12 +4131,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Health checks for Eclipse Vert.x",
+            "homepage": "https://vertx.io/docs/vertx-health-check/java/",
             "id": 84849510,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-07T07:14:14Z",
+            "open_issues": 9,
             "owner": "eclipse-vertx",
             "repo": "vertx-health-check",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "health-check",
+              "healthcheck",
+              "monitoring",
+              "reactive",
+              "vertx"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -2754,12 +4158,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple livereload server for vertx application",
+            "homepage": null,
             "id": 125917067,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-03-20T09:27:53Z",
+            "open_issues": 0,
             "owner": "ybonnel",
             "repo": "vertx-livereload",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -2770,12 +4179,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 70245499,
             "language": null,
+            "license": "MIT",
             "last_commit": "2019-11-29T11:40:30Z",
+            "open_issues": 0,
             "owner": "pmlopes",
             "repo": "VertxSnippet",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         }
@@ -2792,12 +4206,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The legacy distributed object storage server developed by PitchPoint Solutions can store billions of large and small files using minimal resources. Object data is stored in replicated volumes implemented like Facebooks Haystack Object Store. Object metadata which essentially maps an object name to a volume position is stored in an elasticsearch index. (Development by PitchPoint Solutions has been discontinued)",
+            "homepage": null,
             "id": 69255078,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2022-10-04T23:43:11Z",
+            "open_issues": 8,
             "owner": "pitchpoint-solutions",
             "repo": "sfs",
-            "stars": 88
+            "stars": 88,
+            "topics": [
+              "distributed-file-system",
+              "distributed-storage",
+              "distributed-systems",
+              "elasticsearch",
+              "java",
+              "object-storage",
+              "openstack-swift",
+              "rxjava",
+              "vertx"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -2808,12 +4237,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Child Process extension for Vert.x",
+            "homepage": null,
             "id": 45360786,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2025-06-05T13:08:47Z",
+            "open_issues": 5,
             "owner": "reactiverse",
             "repo": "reactiverse-child-process",
-            "stars": 57
+            "stars": 57,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -2824,12 +4258,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Eclipse Vert.x verticle to boot an application from HOCON configuration.",
+            "homepage": null,
             "id": 120518773,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2020-12-18T08:47:08Z",
+            "open_issues": 0,
             "owner": "jponge",
             "repo": "vertx-boot",
-            "stars": 45
+            "stars": 45,
+            "topics": [
+              "configuration",
+              "deployment",
+              "hocon",
+              "microservice",
+              "reactive",
+              "vertx"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -2840,12 +4286,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generalized Diffie-Hellman key exchange Java library built on top of the Vert.x framework",
+            "homepage": null,
             "id": 100943978,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2019-10-25T08:51:27Z",
+            "open_issues": 5,
             "owner": "maxamel",
             "repo": "GDH",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -2856,12 +4307,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A highly scalable redis-persistent queuing system for vertx",
+            "homepage": null,
             "id": 16709089,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T07:32:47Z",
+            "open_issues": 20,
             "owner": "swisspost",
             "repo": "vertx-redisques",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -2872,12 +4328,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "vertx-values enhances JSON handling in Vert.x by providing codecs for the immutable JSON objects from the json-values library. It eliminates the need for copying JSON data during transmission over the Event Bus, reducing garbage collection overhead and boosting performance.",
+            "homepage": null,
             "id": 848707551,
             "language": "Java",
+            "license": null,
             "last_commit": "2024-11-23T21:25:20Z",
+            "open_issues": 0,
             "owner": "imrafaelmerino",
             "repo": "vertx-values",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "immutability",
+              "java",
+              "json",
+              "json-values",
+              "persistent-data-structure",
+              "vertx"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         }
@@ -2894,12 +4362,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "User documentation for Knative components.",
+            "homepage": "https://knative.dev/docs/",
             "id": 138207223,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T21:46:10Z",
+            "open_issues": 42,
             "owner": "knative",
             "repo": "docs",
-            "stars": 5082
+            "stars": 5082,
+            "topics": [
+              "documentation",
+              "faas",
+              "hacktoberfest",
+              "istio",
+              "knative",
+              "kubernetes",
+              "paas",
+              "serverless"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -2910,12 +4392,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vert.x examples",
+            "homepage": null,
             "id": 31272860,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T12:45:32Z",
+            "open_issues": 47,
             "owner": "vert-x3",
             "repo": "vertx-examples",
-            "stars": 3580
+            "stars": 3580,
+            "topics": [
+              "async",
+              "examples",
+              "http2",
+              "kotlin",
+              "reactive",
+              "vertx"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -2926,12 +4420,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vert.x Blueprint Project - Micro-Shop microservice application",
+            "homepage": null,
             "id": 57096675,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2018-12-13T19:50:35Z",
+            "open_issues": 25,
             "owner": "sczyh30",
             "repo": "vertx-blueprint-microservice",
-            "stars": 787
+            "stars": 787,
+            "topics": [
+              "asynchronous",
+              "docker",
+              "event-driven-microservices",
+              "event-sourcing",
+              "microservice",
+              "microservices",
+              "vertx"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -2942,12 +4449,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vert.x Blueprint Project - A reactive todo-backend implementation using Vert.x and various persistence",
+            "homepage": null,
             "id": 57055214,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2020-05-23T22:45:21Z",
+            "open_issues": 1,
             "owner": "sczyh30",
             "repo": "vertx-blueprint-todo-backend",
-            "stars": 185
+            "stars": 185,
+            "topics": [
+              "asynchronous",
+              "reactive-programming",
+              "restful-api",
+              "rxjava2",
+              "vertx"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -2958,12 +4476,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vert.x Blueprint Project - Vert.x Kue, a priority task queue powered by Vert.x",
+            "homepage": null,
             "id": 57096514,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2018-07-10T20:18:49Z",
+            "open_issues": 4,
             "owner": "sczyh30",
             "repo": "vertx-kue",
-            "stars": 146
+            "stars": 146,
+            "topics": [
+              "job-scheduler",
+              "redis",
+              "vertx"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -2974,12 +4501,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Feed aggregator using Vert.x 3 (showcase)",
+            "homepage": null,
             "id": 34815558,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2020-05-24T17:28:29Z",
+            "open_issues": 1,
             "owner": "aesteve",
             "repo": "vertx-feeds",
-            "stars": 132
+            "stars": 132,
+            "topics": [
+              "angular",
+              "java",
+              "mongodb",
+              "redis",
+              "vertx",
+              "vertx-web"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -2990,12 +4529,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yet another Event Sourcing experiment. A project exploring Vert.x to develop Event Sourcing / CQRS applications.",
+            "homepage": null,
             "id": 91769036,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2026-01-26T21:48:23Z",
+            "open_issues": 1,
             "owner": "crabzilla",
             "repo": "crabzilla",
-            "stars": 75
+            "stars": 75,
+            "topics": [
+              "cqrs",
+              "cqrs-es",
+              "event-sourcing",
+              "kotlin",
+              "postgresql",
+              "vertx"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -3006,12 +4557,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A demo Music Store with Eclipse Vert.x and RxJava3",
+            "homepage": null,
             "id": 79252628,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-23T15:43:49Z",
+            "open_issues": 0,
             "owner": "tsegismont",
             "repo": "vertx-musicstore",
-            "stars": 69
+            "stars": 69,
+            "topics": [
+              "couchbase",
+              "postgresql",
+              "rxjava",
+              "vertx"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -3022,12 +4583,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PoC for using Vert.x in EC2. Using the event bus bridge to Node. Setting up clustering in EC2. Possibly more. ",
+            "homepage": null,
             "id": 49668889,
             "language": "Java",
+            "license": null,
             "last_commit": "2016-03-14T20:46:29Z",
+            "open_issues": 2,
             "owner": "advantageous",
             "repo": "vertx-node-ec2-eventbus-example",
-            "stars": 46
+            "stars": 46,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -3038,12 +4604,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Starting a monolithic CRUD RESTful Web Service with Vert.x stack and postgreSQL",
+            "homepage": null,
             "id": 107751537,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2021-11-07T01:03:22Z",
+            "open_issues": 1,
             "owner": "BillyYccc",
             "repo": "vertx-postgresql-starter",
-            "stars": 36
+            "stars": 36,
+            "topics": [
+              "docker",
+              "docker-compose",
+              "gradle",
+              "java8",
+              "postgresql",
+              "reactive",
+              "restful",
+              "rxjava2",
+              "vertx",
+              "vertx-web"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -3054,12 +4636,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "http://vertx.io/blog/data-driven-apps-made-easy-with-vert-x-3-4-0-and-headless-cms-gentics-mesh/",
             "id": 78658242,
             "language": "HTML",
+            "license": null,
             "last_commit": "2025-10-22T19:39:29Z",
+            "open_issues": 3,
             "owner": "gentics",
             "repo": "mesh-vertx-example",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "api-first",
+              "cms",
+              "gentics-mesh",
+              "headless-cms",
+              "vertx",
+              "vertx-web"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -3070,12 +4664,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java 8 starter application with example of using Vert.X framework, Gradle build system, profiles configuration and SLF4J",
+            "homepage": null,
             "id": 84458339,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2017-03-23T07:37:34Z",
+            "open_issues": 0,
             "owner": "yyunikov",
             "repo": "vertx-gradle-starter",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "architecture",
+              "gradle",
+              "java",
+              "sample",
+              "starter",
+              "starter-template",
+              "vertx",
+              "vertx-web"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -3086,12 +4694,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of the TodoMVC server using Vert.x and Kotlin",
+            "homepage": null,
             "id": 59231914,
             "language": "Kotlin",
+            "license": null,
             "last_commit": "2016-05-23T21:06:06Z",
+            "open_issues": 1,
             "owner": "aesteve",
             "repo": "vertx-kotlin-todomvc",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "kotlin",
+              "todobackend",
+              "todomvc-server",
+              "vertx",
+              "vertx-web"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -3102,12 +4721,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Showcase for http2 Vert.x server vs. standard http",
+            "homepage": null,
             "id": 52199545,
             "language": "Java",
+            "license": null,
             "last_commit": "2017-04-27T07:13:35Z",
+            "open_issues": 3,
             "owner": "aesteve",
             "repo": "http2-showcase",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "demo",
+              "http2",
+              "vertx",
+              "vertx-web"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -3118,12 +4747,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Basic Vert.x service to generate html from markdown over the event bus",
+            "homepage": null,
             "id": 32604130,
             "language": "Java",
+            "license": null,
             "last_commit": "2015-11-15T21:03:45Z",
+            "open_issues": 1,
             "owner": "aesteve",
             "repo": "vertx-markdown-service",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -3134,12 +4768,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 52211549,
             "language": "Java",
+            "license": null,
             "last_commit": "2016-04-24T16:36:59Z",
+            "open_issues": 0,
             "owner": "aesteve",
             "repo": "todo-backend-vertx",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -3150,12 +4789,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple Java webapp using Eclipse Vert.x on Cloud Foundry",
+            "homepage": null,
             "id": 114156478,
             "language": "Java",
+            "license": null,
             "last_commit": "2017-12-20T20:27:22Z",
+            "open_issues": 0,
             "owner": "amdelamar",
             "repo": "vertx-cloudfoundry",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "cloudfoundry",
+              "java",
+              "vertx"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -3166,12 +4814,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ssv-api (Starter Single Verticle API) is a ready to deploy REST API based in vert.x framework with lots of plumbing code and documentation to quickly develope an API without any waste of time.",
+            "homepage": null,
             "id": 289192254,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2020-09-17T03:16:35Z",
+            "open_issues": 0,
             "owner": "jgarciasm",
             "repo": "ssv-api",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -3182,12 +4835,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Demo of high performance AI model (pmml export)  evaluator api base on Vert.x, Supports dynamic routing configuration for multiple pmml models via JSON",
+            "homepage": null,
             "id": 488643420,
             "language": "Java",
+            "license": "AGPL-3.0",
             "last_commit": "2022-05-05T16:03:11Z",
+            "open_issues": 0,
             "owner": "immusen",
             "repo": "vertx-pmml",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "ai",
+              "api",
+              "dynamic-routing",
+              "eventbus",
+              "java",
+              "java-pmml",
+              "jpmml",
+              "pmml",
+              "pmml-evaluator",
+              "verticle",
+              "vertx",
+              "vertx-web",
+              "vertx4"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -3198,12 +4870,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TodoMVC implementation using Vert.x-lang-scala",
+            "homepage": null,
             "id": 70421955,
             "language": "Scala",
+            "license": null,
             "last_commit": "2016-10-10T16:47:48Z",
+            "open_issues": 0,
             "owner": "aesteve",
             "repo": "vertx-scala-todomvc",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -3214,12 +4891,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TodoMVC backend using grooveex on top of Vert.x 3",
+            "homepage": null,
             "id": 51782235,
             "language": "Groovy",
+            "license": null,
             "last_commit": "2016-05-23T19:36:06Z",
+            "open_issues": 0,
             "owner": "aesteve",
             "repo": "todo-backend-grooveex",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "dsl",
+              "groovy",
+              "groovy-language",
+              "todobackend",
+              "vertx",
+              "vertx-web"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         }
@@ -3236,12 +4925,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " Efficient, asynchronous batching and caching in clustered environments, port of Facebook DataLoader",
+            "homepage": null,
             "id": 65939518,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2017-08-06T07:12:46Z",
+            "open_issues": 1,
             "owner": "engagingspaces",
             "repo": "vertx-dataloader",
-            "stars": 73
+            "stars": 73,
+            "topics": [
+              "batch",
+              "dataloader",
+              "facebook-dataloader",
+              "graphql",
+              "java-8",
+              "vertx",
+              "vertx-dataloader"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -3252,12 +4954,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This vertx module add the ability to schedule events using cron expressions.",
+            "homepage": null,
             "id": 23371843,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-02T22:08:12Z",
+            "open_issues": 1,
             "owner": "diabolicallabs",
             "repo": "vertx-cron",
-            "stars": 66
+            "stars": 66,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -3268,12 +4975,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Contextual logging for Vert.x applications",
+            "homepage": "https://reactiverse.io/reactiverse-contextual-logging/",
             "id": 334916802,
             "language": "HTML",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T12:41:05Z",
+            "open_issues": 0,
             "owner": "reactiverse",
             "repo": "reactiverse-contextual-logging",
-            "stars": 41
+            "stars": 41,
+            "topics": [
+              "logging",
+              "mdc",
+              "vertx"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -3284,12 +5000,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An access log implementation to be used in vert web routes - inspired by apache / tomcat access log configuration",
+            "homepage": null,
             "id": 51703094,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2025-05-15T18:02:42Z",
+            "open_issues": 3,
             "owner": "romanpierson",
             "repo": "vertx-web-accesslog",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "accesslog",
+              "elasticsearch",
+              "logging",
+              "vertx",
+              "vertx-web"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -3300,12 +5027,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Time scheduler for Vert.x",
+            "homepage": null,
             "id": 53810939,
             "language": "Ceylon",
+            "license": "MIT",
             "last_commit": "2017-11-07T20:19:39Z",
+            "open_issues": 3,
             "owner": "LisiLisenok",
             "repo": "Chime",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "ceylon",
+              "scheduling",
+              "vertx"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -3316,12 +5052,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An abstraction of cron-utils for the vertx scheduler",
+            "homepage": null,
             "id": 157881111,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-07T11:54:22Z",
+            "open_issues": 0,
             "owner": "NoEnv",
             "repo": "vertx-cronutils",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "async",
+              "cron",
+              "extension",
+              "scheduler",
+              "timeout",
+              "timer",
+              "vertx"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -3332,12 +5081,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vert.x GraphQL utils",
+            "homepage": null,
             "id": 101883035,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2018-05-30T08:46:09Z",
+            "open_issues": 0,
             "owner": "tibor-kocsis",
             "repo": "vertx-graphql-utils",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "graphql",
+              "vertx"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -3348,12 +5105,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A scheduler based on plain Vertx promise/future/periodic/timer",
+            "homepage": "https://zero88.github.io/webdocs/schedulerx/main/index.html",
             "id": 342511382,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-19T17:51:23Z",
+            "open_issues": 24,
             "owner": "zero88",
             "repo": "scheduler.x",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "cron",
+              "event-trigger",
+              "scheduler",
+              "vertx4"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -3364,12 +5131,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":construction: Async helpers for Vert.x",
+            "homepage": null,
             "id": 60347436,
             "language": "Java",
+            "license": null,
             "last_commit": "2022-03-12T07:34:27Z",
+            "open_issues": 3,
             "owner": "gchauvet",
             "repo": "vertx-async",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "async",
+              "library",
+              "vertx"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -3380,12 +5156,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightweight JsonPath for Vert.x",
+            "homepage": null,
             "id": 490708564,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-07T11:54:22Z",
+            "open_issues": 2,
             "owner": "NoEnv",
             "repo": "vertx-jsonpath",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "json",
+              "jsonpath",
+              "vertx"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -3396,12 +5181,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Vert.x Verticle intended to deploy verticles and their dependent verticles",
+            "homepage": null,
             "id": 80304621,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2019-01-11T02:47:31Z",
+            "open_issues": 0,
             "owner": "juanavelez",
             "repo": "vertx-dependent-verticle-deployer",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "reactive",
+              "vertx"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -3412,12 +5205,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "vertx jolt facade",
+            "homepage": null,
             "id": 75652862,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-01-15T22:52:19Z",
+            "open_issues": 9,
             "owner": "lusoalex",
             "repo": "vertx-jolt",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -3428,12 +5226,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple Vert.x extension to map your JsonObject configuration to a standard Java bean",
+            "homepage": null,
             "id": 57565196,
             "language": "Java",
+            "license": null,
             "last_commit": "2016-05-01T09:55:00Z",
+            "open_issues": 0,
             "owner": "aesteve",
             "repo": "vertx-pojo-config",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "configuration",
+              "json",
+              "mapping",
+              "validation",
+              "vertx"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -3444,12 +5253,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " Collection of Vert.x utility methods",
+            "homepage": null,
             "id": 88551180,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2018-05-13T01:33:57Z",
+            "open_issues": 0,
             "owner": "juanavelez",
             "repo": "vertx-util",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "reactive",
+              "vertx"
+            ]
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         }
@@ -3466,12 +5283,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The wiki and issues for the vert-x3 organisation",
+            "homepage": null,
             "id": 27068567,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2015-03-16T17:06:42Z",
+            "open_issues": 2,
             "owner": "vert-x3",
             "repo": "wiki",
-            "stars": 191
+            "stars": 191,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         },
@@ -3482,12 +5304,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 32781880,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2016-06-21T12:04:13Z",
+            "open_issues": 115,
             "owner": "vert-x3",
             "repo": "issues",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
         }
@@ -3496,15 +5323,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T14:10:37.689Z",
+    "last_updated": "2026-08-29T04:25:05.435Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome Vert.x resources, libraries, and other nice things.",
+      "homepage": "https://github.com/vert-x3/vertx-awesome",
       "id": 37015907,
       "language": null,
+      "license": "Apache-2.0",
       "last_commit": "2026-06-27T03:13:48Z",
+      "open_issues": 0,
       "owner": "vert-x3",
       "repo": "vertx-awesome",
-      "stars": 2223
+      "stars": 2223,
+      "topics": []
     },
     "original_repository_sha": "6978ef828da5cec96fad20e0f146b06ad35d45d9",
     "enhanced_repository": "enhansome/vertx-enhansome",
