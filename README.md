@@ -121,7 +121,7 @@ next to it. This icon means the component is part of the official
   * [MarkLogic](https://github.com/etourdot/vertx-marklogic) ⭐ 2 | 🐛 0 | 🌐 Java | 📅 2016-05-27 - Asynchronous client for Marklogic Database Server.
   * [Bitsy](https://github.com/cstamas/vertx-bitsy) ⭐ 1 | 🐛 0 | 🌐 Java | 📅 2017-02-25 - Non-blocking Bitsy Graph server integration.
   * [DGraph](https://github.com/aesteve/vertx-dgraph-client) ⭐ 1 | 🐛 0 | 🌐 Java | 📅 2019-01-14 - An example on how to build a Vert.x gRPC compliant client. Here targeting [dgraph](https://docs.dgraph.io)
-  * [Neo4j Java Driver Vert.x](https://github.com/romanbsd/neo4j-java-driver-vertx) ⭐ 0 | 🐛 0 | 🌐 Java | 📅 2026-08-15 - Vert.x wrapper around the Neo4j Java Driver.
+  * [Neo4j Java Driver Vert.x](https://github.com/romanbsd/neo4j-java-driver-vertx) ⭐ 0 | 🐛 0 | 🌐 Java | 📅 2026-08-29 - Vert.x wrapper around the Neo4j Java Driver.
   * [MongoDB](https://github.com/imrafaelmerino/vertx-mongo-effect) ⭐ 0 | 🐛 0 | 🌐 Java | 📅 2024-11-23 - Pure functional and reactive MongoDB client on top of [Vert.x Effect](https://github.com/imrafaelmerino/vertx-mongo-effect) ⭐ 0 | 🐛 0 | 🌐 Java | 📅 2024-11-23. Full support for retry, fallback and recovery operations.
 
 ## Integration
@@ -267,7 +267,7 @@ next to it. This icon means the component is part of the official
 
 * [Resilience4j](https://github.com/resilience4j/resilience4j) ⭐ 10,752 | 🐛 303 | 🌐 Java | 📅 2026-07-08 - Resilience4j is a fault tolerance library designed for Java8 and functional programming. Resilience4j provides modules for Circuit Breaking, Rate Limiting, Bulkheading, Automatic retrying, Response caching and Metric measuring.
 * [Failsafe](https://failsafe.dev/) - Failsafe is a lightweight, *zero-dependency* library for handling failures in Java 8+. Concise API. Integration with libraries that use their own schedulers for async executions, such as Akka or Vert.x. [Vert.x example](https://github.com/failsafe-lib/failsafe/blob/master/examples/src/main/java/dev/failsafe/examples/VertxExample.java) ⭐ 4,310 | 🐛 79 | 🌐 Java | 📅 2025-12-28
-* [Apache ServiceComb Java Chassis](https://github.com/apache/servicecomb-java-chassis) ⭐ 1,940 | 🐛 230 | 🌐 Java | 📅 2026-07-01 - ServiceComb Java Chassis is a Software Development Kit (SDK) for rapid development of microservices in Java, providing service registration, service discovery, dynamic routing, and service management features.
+* [Apache ServiceComb Java Chassis](https://github.com/apache/servicecomb-java-chassis) ⭐ 1,941 | 🐛 230 | 🌐 Java | 📅 2026-07-01 - ServiceComb Java Chassis is a Software Development Kit (SDK) for rapid development of microservices in Java, providing service registration, service discovery, dynamic routing, and service management features.
 * [Service Discovery](https://github.com/vert-x3/vertx-service-discovery) ⭐ 121 | 🐛 14 | 🌐 Java | 📅 2026-08-07 <img src="vertx-favicon.svg" alt="(stack)" title="Vert.x Service Discovery" height="16px"> - Vert.x Service Discovery.
 * [Service Discovery - Consul](https://github.com/vert-x3/vertx-service-discovery) ⭐ 121 | 🐛 14 | 🌐 Java | 📅 2026-08-07 <img src="vertx-favicon.svg" alt="(stack)" title="Vert.x Service Discovery - Consul" height="16px"> - [Consul](https://www.consul.io/) extension to Vert.x Service Discovery.
 * [Service Discovery - Docker links](https://github.com/vert-x3/vertx-service-discovery) ⭐ 121 | 🐛 14 | 🌐 Java | 📅 2026-08-07 <img src="vertx-favicon.svg" alt="(stack)" title="Vert.x Service Discovery - Docker Links" height="16px"> - [Docker](https://www.docker.com/) extension to Vert.x Service Discovery.
@@ -320,7 +320,7 @@ next to it. This icon means the component is part of the official
 
 ## Development Tools
 
-* [openapi-generator](https://github.com/OpenAPITools/openapi-generator) ⭐ 26,696 | 🐛 5,710 | 🌐 Java | 📅 2026-08-28 - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3).
+* [openapi-generator](https://github.com/OpenAPITools/openapi-generator) ⭐ 26,697 | 🐛 5,711 | 🌐 Java | 📅 2026-08-28 - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3).
 * [Vert.x Hot](https://github.com/dazraf/vertx-hot) ⭐ 49 | 🐛 10 | 🌐 Java | 📅 2016-02-24 - A Maven plugin for the hot-deploy of Maven Vert.x projects.
 * [Vert.x shell](https://github.com/vert-x3/vertx-shell) ⭐ 39 | 🐛 10 | 🌐 Java | 📅 2026-08-10  <img src="vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Allows for interaction with Vert.x from the command line.
 * [Vert.x health check](https://github.com/vert-x3/vertx-health-check) ⭐ 15 | 🐛 9 | 🌐 Java | 📅 2026-08-07 - Allows for remote health checking in Vert.x projects.
