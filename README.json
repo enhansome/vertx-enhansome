@@ -2244,7 +2244,7 @@
             "open_issues": 230,
             "owner": "eclipse-vertx",
             "repo": "vert.x",
-            "stars": 14687,
+            "stars": 14688,
             "topics": [
               "concurrency",
               "event-loop",
@@ -2586,7 +2586,7 @@
             "open_issues": 5,
             "owner": "vert-x3",
             "repo": "vertx-rx",
-            "stars": 155,
+            "stars": 154,
             "topics": [
               "java",
               "rxjava",
@@ -3270,7 +3270,7 @@
             "open_issues": 303,
             "owner": "resilience4j",
             "repo": "resilience4j",
-            "stars": 10752,
+            "stars": 10753,
             "topics": [
               "bulkhead",
               "circuitbreaker",
@@ -3295,7 +3295,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2025-12-28T01:41:28Z",
-            "open_issues": 79,
+            "open_issues": 78,
             "owner": "failsafe-lib",
             "repo": "failsafe",
             "stars": 4310,
@@ -4060,10 +4060,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-08-28T04:15:32Z",
-            "open_issues": 5711,
+            "open_issues": 5716,
             "owner": "OpenAPITools",
             "repo": "openapi-generator",
-            "stars": 26697,
+            "stars": 26703,
             "topics": [
               "api",
               "api-client",
@@ -5323,7 +5323,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T08:47:48.704Z",
+    "last_updated": "2026-08-30T08:05:51.928Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Vert.x resources, libraries, and other nice things.",
