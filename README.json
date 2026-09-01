@@ -977,8 +977,8 @@
                 "id": 4604367,
                 "language": "Java",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-08-27T22:01:22Z",
-                "open_issues": 4,
+                "last_commit": "2026-08-31T11:03:00Z",
+                "open_issues": 7,
                 "owner": "sirixdb",
                 "repo": "sirix",
                 "stars": 1216,
@@ -2240,11 +2240,11 @@
             "id": 1911523,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-28T10:09:44Z",
-            "open_issues": 230,
+            "last_commit": "2026-08-31T16:30:14Z",
+            "open_issues": 228,
             "owner": "eclipse-vertx",
             "repo": "vert.x",
-            "stars": 14687,
+            "stars": 14685,
             "topics": [
               "concurrency",
               "event-loop",
@@ -3267,7 +3267,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-08-31T06:01:41Z",
-            "open_issues": 299,
+            "open_issues": 298,
             "owner": "resilience4j",
             "repo": "resilience4j",
             "stars": 10752,
@@ -3329,7 +3329,7 @@
             "open_issues": 230,
             "owner": "apache",
             "repo": "servicecomb-java-chassis",
-            "stars": 1941,
+            "stars": 1942,
             "topics": [
               "servicecomb"
             ]
@@ -4059,11 +4059,11 @@
             "id": 133134007,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T03:21:54Z",
+            "last_commit": "2026-09-01T02:21:19Z",
             "open_issues": 5718,
             "owner": "OpenAPITools",
             "repo": "openapi-generator",
-            "stars": 26708,
+            "stars": 26711,
             "topics": [
               "api",
               "api-client",
@@ -4367,7 +4367,7 @@
             "id": 138207223,
             "language": "HTML",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-24T21:46:10Z",
+            "last_commit": "2026-09-01T01:03:04Z",
             "open_issues": 42,
             "owner": "knative",
             "repo": "docs",
@@ -5323,7 +5323,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T08:24:36.846Z",
+    "last_updated": "2026-09-01T07:32:13.645Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Vert.x resources, libraries, and other nice things.",
