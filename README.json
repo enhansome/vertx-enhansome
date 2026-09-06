@@ -765,7 +765,7 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-01T08:13:20Z",
-                "open_issues": 76,
+                "open_issues": 78,
                 "owner": "eclipse-vertx",
                 "repo": "vertx-sql-client",
                 "stars": 913,
@@ -981,7 +981,7 @@
                 "open_issues": 9,
                 "owner": "sirixdb",
                 "repo": "sirix",
-                "stars": 1216,
+                "stars": 1217,
                 "topics": [
                   "comparison",
                   "coroutines",
@@ -1266,8 +1266,8 @@
                 "id": 1247501096,
                 "language": "Java",
                 "license": null,
-                "last_commit": "2026-09-05T05:12:29Z",
-                "open_issues": 3,
+                "last_commit": "2026-09-05T09:35:12Z",
+                "open_issues": 0,
                 "owner": "romanbsd",
                 "repo": "neo4j-java-driver-vertx",
                 "stars": 0,
@@ -1463,7 +1463,7 @@
                 "open_issues": 4,
                 "owner": "vietj",
                 "repo": "retrofit-vertx",
-                "stars": 33,
+                "stars": 34,
                 "topics": [
                   "httpclient",
                   "java",
@@ -2240,8 +2240,8 @@
             "id": 1911523,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-04T12:52:51Z",
-            "open_issues": 225,
+            "last_commit": "2026-09-05T21:38:25Z",
+            "open_issues": 227,
             "owner": "eclipse-vertx",
             "repo": "vert.x",
             "stars": 14683,
@@ -3052,7 +3052,7 @@
             "open_issues": 2,
             "owner": "vert-x3",
             "repo": "vertx-hazelcast",
-            "stars": 82,
+            "stars": 83,
             "topics": []
           },
           "first_seen": "2026-08-28T14:10:37.689Z"
@@ -3267,10 +3267,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-08-31T06:01:41Z",
-            "open_issues": 299,
+            "open_issues": 300,
             "owner": "resilience4j",
             "repo": "resilience4j",
-            "stars": 10755,
+            "stars": 10756,
             "topics": [
               "bulkhead",
               "circuitbreaker",
@@ -4060,10 +4060,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-09-04T08:48:41Z",
-            "open_issues": 5738,
+            "open_issues": 5745,
             "owner": "OpenAPITools",
             "repo": "openapi-generator",
-            "stars": 26724,
+            "stars": 26726,
             "topics": [
               "api",
               "api-client",
@@ -5323,7 +5323,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T06:49:13.496Z",
+    "last_updated": "2026-09-06T06:59:28.671Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Vert.x resources, libraries, and other nice things.",
