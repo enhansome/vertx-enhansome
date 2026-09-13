@@ -66,7 +66,7 @@ next to it. This icon means the component is part of the official
 * [Kovert](https://github.com/kohesive/kovert) ⭐ 158 | 🐛 9 | 🌐 Kotlin | 📅 2018-11-15 - Invisible REST framework for Kotlin + Vert.x Web.
 * [Vert.x Jersey](https://github.com/englishtown/vertx-jersey) ⭐ 155 | 🐛 18 | 🌐 Java | 📅 2021-10-28 - Create JAX-RS [Jersey](https://eclipse-ee4j.github.io/jersey/) resources in Vert.x.
 * [Knot.x](https://github.com/Cognifide/knotx) ⭐ 126 | 🐛 16 | 📅 2022-03-28 - Efficient & high-performance integration platform for modern websites built on Vert.x 3.
-* [vertx-rest](https://github.com/dream11/vertx-rest) ⭐ 49 | 🐛 3 | 🌐 Java | 📅 2025-12-23 - Abstraction over resteasy-vertx to simplify writing a Vert.x REST application based on JAX-RS annotations.
+* [vertx-rest](https://github.com/dream11/vertx-rest) ⭐ 48 | 🐛 3 | 🌐 Java | 📅 2025-12-23 - Abstraction over resteasy-vertx to simplify writing a Vert.x REST application based on JAX-RS annotations.
 * [Vert.x Vaadin](https://github.com/mcollovati/vertx-vaadin) ⚠️ Archived - Run Vaadin applications on Vert.x.
 * [Atmosphere Vert.x](https://github.com/Atmosphere/atmosphere-vertx) ⭐ 44 | 🐛 3 | 🌐 Java | 📅 2026-02-24 - Realtime Client Server Framework for the JVM, supporting WebSockets and Server Sent Events with Cross-Browser Fallbacks.
 * [Irked](https://github.com/GreenfieldTech/irked) ⭐ 36 | 🐛 0 | 🌐 Java | 📅 2026-09-10 - Annotations-based configuration for Vert.x Web, with a controller framework and expressive APIs for REST.
@@ -100,14 +100,14 @@ next to it. This icon means the component is part of the official
 * [vertx-mysql-binlog-client](https://github.com/guoyu511/vertx-mysql-binlog-client) ⭐ 16 | 🐛 0 | 🌐 Java | 📅 2017-10-29 - A Vert.x client for tapping into MySQL replication stream.
 
 * Relational Databases
-  * [Reactive SQL Client](https://github.com/eclipse-vertx/vertx-sql-client) ⭐ 913 | 🐛 76 | 🌐 Java | 📅 2026-09-10 <img src="vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - High performance reactive SQL client.
-  * [jOOQ](https://github.com/jklingsporn/vertx-jooq) ⭐ 392 | 🐛 48 | 🌐 Java | 📅 2024-01-11 - Doing typesafe, asynchronous SQL and generate code using jOOQ.
+  * [Reactive SQL Client](https://github.com/eclipse-vertx/vertx-sql-client) ⭐ 912 | 🐛 77 | 🌐 Java | 📅 2026-09-10 <img src="vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - High performance reactive SQL client.
+  * [jOOQ](https://github.com/jklingsporn/vertx-jooq) ⭐ 391 | 🐛 48 | 🌐 Java | 📅 2024-01-11 - Doing typesafe, asynchronous SQL and generate code using jOOQ.
   * [JDBC](https://github.com/vert-x3/vertx-jdbc-client) ⭐ 131 | 🐛 32 | 🌐 Java | 📅 2026-09-10 <img src="vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Asynchronous interface around a JDBC datasource.
   * [MySQL / PostgreSQL](https://github.com/vert-x3/vertx-mysql-postgresql-client) ⭐ 121 | 🐛 30 | 🌐 Java | 📅 2023-05-12 <img src="vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Asynchronous Client for MySQL/PostgreSQL.
   * [PostgreSQL](https://github.com/vietj/reactive-pg-client) ⭐ 75 | 🐛 13 | 🌐 Java | 📅 2019-07-19 - Reactive PostgreSQL Client.
   * [database](https://github.com/susom/database) ⭐ 44 | 🐛 1 | 🌐 Java | 📅 2026-08-20 - Client for Oracle, PostgreSQL, SQL Server, HyperSQL, etc. designed for security, correctness, and ease of use.
   * [jOOQx](https://github.com/zero88/jooqx) ⭐ 34 | 🐛 33 | 🌐 Java | 📅 2026-09-10 - Leverages the power of typesafe SQL from `jOOQ DSL` and uses the reactive and non-blocking SQL driver from Vert.x.
-  * [Exposed Vert.x SQL Client](https://github.com/huanshankeji/exposed-vertx-sql-client) ⭐ 11 | 🐛 16 | 🌐 Kotlin | 📅 2026-09-11 - Kotlin's [Exposed](https://github.com/JetBrains/Exposed) ⭐ 9,287 | 🐛 173 | 🌐 Kotlin | 📅 2026-09-11 on top of [Vert.x Reactive SQL Client](https://github.com/eclipse-vertx/vertx-sql-client) ⭐ 913 | 🐛 76 | 🌐 Java | 📅 2026-09-10.
+  * [Exposed Vert.x SQL Client](https://github.com/huanshankeji/exposed-vertx-sql-client) ⭐ 11 | 🐛 16 | 🌐 Kotlin | 📅 2026-09-11 - Kotlin's [Exposed](https://github.com/JetBrains/Exposed) ⭐ 9,287 | 🐛 173 | 🌐 Kotlin | 📅 2026-09-11 on top of [Vert.x Reactive SQL Client](https://github.com/eclipse-vertx/vertx-sql-client) ⭐ 912 | 🐛 77 | 🌐 Java | 📅 2026-09-10.
 
 * NoSQL Databases
   * [SirixDB](https://github.com/sirixdb/sirix/tree/master/bundles/sirix-rest-api) ⭐ 1,218 | 🐛 3 | 🌐 Java | 📅 2026-09-10 - Non-blocking SirixDB HTTP-server.
@@ -115,7 +115,7 @@ next to it. This icon means the component is part of the official
   * [MongoDB](https://github.com/vert-x3/vertx-mongo-client) ⭐ 63 | 🐛 27 | 🌐 Java | 📅 2026-09-10 <img src="vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - An asynchronous client for interacting with a MongoDB database.
   * [Cassandra](https://github.com/englishtown/vertx-cassandra) ⭐ 40 | 🐛 7 | 🌐 Java | 📅 2023-03-19 - Asynchronous API to interact with Cassandra and Cassandra Mapping.
   * [Cassandra](https://github.com/vert-x3/vertx-cassandra-client) ⭐ 35 | 🐛 3 | 🌐 Java | 📅 2026-09-10 <img src="vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - A Vert.x client allowing applications to interact with a Cassandra service.
-  * [Aerospike](https://github.com/dream11/vertx-aerospike-client) ⭐ 32 | 🐛 3 | 🌐 Java | 📅 2025-12-22 - Asynchronous and non-blocking API to interact with Aerospike server. Uses [AerospikeClient's](https://github.com/aerospike/aerospike-client-java) ⭐ 248 | 🐛 23 | 🌐 Java | 📅 2026-09-11 async commands internally and handles the result on the Vert.x Context.
+  * [Aerospike](https://github.com/dream11/vertx-aerospike-client) ⭐ 32 | 🐛 3 | 🌐 Java | 📅 2025-12-22 - Asynchronous and non-blocking API to interact with Aerospike server. Uses [AerospikeClient's](https://github.com/aerospike/aerospike-client-java) ⭐ 248 | 🐛 23 | 🌐 Java | 📅 2026-09-12 async commands internally and handles the result on the Vert.x Context.
   * [RxFirestore](https://github.com/pjgg/rxfirestore) ⭐ 9 | 🐛 2 | 🌐 Java | 📅 2022-02-11 - Non-blocking Firestore SDK written in a reactive way.
   * [OrientDB](https://github.com/cstamas/vertx-orientdb) ⭐ 7 | 🐛 0 | 🌐 Java | 📅 2017-11-21 - Non-blocking OrientDB server integration.
   * [MarkLogic](https://github.com/etourdot/vertx-marklogic) ⭐ 2 | 🐛 0 | 🌐 Java | 📅 2016-05-27 - Asynchronous client for Marklogic Database Server.
@@ -170,7 +170,7 @@ next to it. This icon means the component is part of the official
   * [Bosun Monitoring](https://github.com/cyngn/vertx-bosun) ⭐ 3 | 🐛 0 | 🌐 Java | 📅 2015-09-15 - [Bosun](https://bosun.org/) client library for Vert.x.
 
 * Netflix - Hystrix
-  * [Hystrix Metrics Stream](https://github.com/kennedyoliveira/hystrix-vertx-metrics-stream.git) ⭐ 15 | 🐛 2 | 🌐 Java | 📅 2016-10-03 - Emits metrics for Hystrix Dashboard from a Vert.x application with [Hystrix](https://github.com/Netflix/Hystrix) ⭐ 24,477 | 🐛 58 | 🌐 Java | 📅 2025-12-17.
+  * [Hystrix Metrics Stream](https://github.com/kennedyoliveira/hystrix-vertx-metrics-stream.git) ⭐ 15 | 🐛 2 | 🌐 Java | 📅 2016-10-03 - Emits metrics for Hystrix Dashboard from a Vert.x application with [Hystrix](https://github.com/Netflix/Hystrix) ⭐ 24,479 | 🐛 58 | 🌐 Java | 📅 2025-12-17.
 
 * Dart
   * [Vert.x Dart SockJS](https://github.com/wem/vertx-dart-sockjs) ⭐ 0 | 🐛 0 | 📅 2019-09-17 - [Dart](https://www.dartlang.org/) integration for [Vert.x SockJS bridge](http://vertx.io/docs/vertx-web/java/#_sockjs_event_bus_bridge) and plain SockJS with use of dart:js.
@@ -265,7 +265,7 @@ next to it. This icon means the component is part of the official
 
 ## Microservices
 
-* [Resilience4j](https://github.com/resilience4j/resilience4j) ⭐ 10,758 | 🐛 303 | 🌐 Java | 📅 2026-08-31 - Resilience4j is a fault tolerance library designed for Java8 and functional programming. Resilience4j provides modules for Circuit Breaking, Rate Limiting, Bulkheading, Automatic retrying, Response caching and Metric measuring.
+* [Resilience4j](https://github.com/resilience4j/resilience4j) ⭐ 10,758 | 🐛 304 | 🌐 Java | 📅 2026-08-31 - Resilience4j is a fault tolerance library designed for Java8 and functional programming. Resilience4j provides modules for Circuit Breaking, Rate Limiting, Bulkheading, Automatic retrying, Response caching and Metric measuring.
 * [Failsafe](https://failsafe.dev/) - Failsafe is a lightweight, *zero-dependency* library for handling failures in Java 8+. Concise API. Integration with libraries that use their own schedulers for async executions, such as Akka or Vert.x. [Vert.x example](https://github.com/failsafe-lib/failsafe/blob/master/examples/src/main/java/dev/failsafe/examples/VertxExample.java) ⭐ 4,311 | 🐛 78 | 🌐 Java | 📅 2025-12-28
 * [Apache ServiceComb Java Chassis](https://github.com/apache/servicecomb-java-chassis) ⭐ 1,943 | 🐛 230 | 🌐 Java | 📅 2026-09-12 - ServiceComb Java Chassis is a Software Development Kit (SDK) for rapid development of microservices in Java, providing service registration, service discovery, dynamic routing, and service management features.
 * [Service Discovery](https://github.com/vert-x3/vertx-service-discovery) ⭐ 121 | 🐛 14 | 🌐 Java | 📅 2026-09-10 <img src="vertx-favicon.svg" alt="(stack)" title="Vert.x Service Discovery" height="16px"> - Vert.x Service Discovery.
@@ -320,7 +320,7 @@ next to it. This icon means the component is part of the official
 
 ## Development Tools
 
-* [openapi-generator](https://github.com/OpenAPITools/openapi-generator) ⭐ 26,738 | 🐛 5,756 | 🌐 Java | 📅 2026-09-11 - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3).
+* [openapi-generator](https://github.com/OpenAPITools/openapi-generator) ⭐ 26,737 | 🐛 5,762 | 🌐 Java | 📅 2026-09-11 - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3).
 * [Vert.x Hot](https://github.com/dazraf/vertx-hot) ⭐ 49 | 🐛 10 | 🌐 Java | 📅 2016-02-24 - A Maven plugin for the hot-deploy of Maven Vert.x projects.
 * [Vert.x shell](https://github.com/vert-x3/vertx-shell) ⭐ 39 | 🐛 10 | 🌐 Java | 📅 2026-09-10  <img src="vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Allows for interaction with Vert.x from the command line.
 * [Vert.x health check](https://github.com/vert-x3/vertx-health-check) ⭐ 15 | 🐛 9 | 🌐 Java | 📅 2026-09-10 - Allows for remote health checking in Vert.x projects.
@@ -343,7 +343,7 @@ next to it. This icon means the component is part of the official
 
 ## Examples
 
-* [Knative](https://github.com/knative/docs/tree/main/code-samples/community/serving/helloworld-vertx) ⭐ 5,087 | 🐛 52 | 🌐 HTML | 📅 2026-09-10 - An example application on how to use [Reactive Extensions Vert.x](https://github.com/vert-x3/vertx-rx) ⭐ 154 | 🐛 5 | 🌐 Java | 📅 2026-09-10 with [Knative](https://github.com/knative).
+* [Knative](https://github.com/knative/docs/tree/main/code-samples/community/serving/helloworld-vertx) ⭐ 5,089 | 🐛 54 | 🌐 HTML | 📅 2026-09-10 - An example application on how to use [Reactive Extensions Vert.x](https://github.com/vert-x3/vertx-rx) ⭐ 154 | 🐛 5 | 🌐 Java | 📅 2026-09-10 with [Knative](https://github.com/knative).
 * [Vert.x examples](https://github.com/vert-x3/vertx-examples) ⭐ 3,578 | 🐛 47 | 🌐 Java | 📅 2026-08-25 <img src="vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - The official Vert.x examples including web examples, how to use the official database clients, etc.
 * [Vert.x blueprint - Microservice application](https://github.com/sczyh30/vertx-blueprint-microservice) ⭐ 787 | 🐛 25 | 🌐 Java | 📅 2018-12-13 <img src="vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - The official Vert.x blueprint showing how to build a complex microservice application.
 * [Vert.x blueprint - TODO backend](https://github.com/sczyh30/vertx-blueprint-todo-backend) ⭐ 185 | 🐛 1 | 🌐 Java | 📅 2020-05-23 <img src="vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - The official Vert.x blueprint showing how to build a backend for a TODO application.
@@ -352,7 +352,7 @@ next to it. This icon means the component is part of the official
 * [Crabzilla](https://github.com/crabzilla/crabzilla) ⭐ 75 | 🐛 1 | 🌐 Kotlin | 📅 2026-01-26 - Yet another Event Sourcing experiment. A project exploring Vert.x to develop Event Sourcing / CQRS applications.
 * [Vert.x Music Store](https://github.com/tsegismont/vertx-musicstore) ⭐ 69 | 🐛 0 | 🌐 Java | 📅 2026-07-23 - An example application on how to build Vert.x applications with RxJava.
 * [Example using event bus and service proxies to connect vertx and node](https://github.com/advantageous/vertx-node-ec2-eventbus-example) ⭐ 46 | 🐛 2 | 🌐 Java | 📅 2016-03-14 - Step by step example with wiki description showing how to connect Vert.x and Node using event bus and service proxies.
-* [Vert.x PostgreSQL Starter](https://github.com/BillyYccc/vertx-postgresql-starter) ⭐ 36 | 🐛 1 | 🌐 Java | 📅 2021-11-07 - A starter to build a monolithic CRUD RESTful Web Service with Vert.x stack and PostgreSQL.
+* [Vert.x PostgreSQL Starter](https://github.com/BillyYccc/vertx-postgresql-starter) ⭐ 35 | 🐛 1 | 🌐 Java | 📅 2021-11-07 - A starter to build a monolithic CRUD RESTful Web Service with Vert.x stack and PostgreSQL.
 * [Vert.x Gentics Mesh Example](https://github.com/gentics/mesh-vertx-example) ⭐ 16 | 🐛 3 | 🌐 HTML | 📅 2025-10-22 - Example on how to build a template-based web server with Gentics Mesh and handlebars.
 * [Vert.x Gradle Starter](https://github.com/yyunikov/vertx-gradle-starter) ⭐ 10 | 🐛 0 | 🌐 Java | 📅 2017-03-23 - Java 8 starter application with example of using Vert.x with Gradle build system, profiles configuration and SLF4J.
 * [Kotlin Todo-Backend implementation](https://github.com/aesteve/vertx-kotlin-todomvc) ⭐ 7 | 🐛 1 | 🌐 Kotlin | 📅 2016-05-23 - Kotlin implementation of the Todo MVC backend.
@@ -393,7 +393,7 @@ next to it. This icon means the component is part of the official
 
 ## Community
 
-* [Wiki](https://github.com/vert-x3/wiki/wiki) ⭐ 191 | 🐛 2 | 📅 2015-03-16 - Contains useful information about Vert.x.
+* [Wiki](https://github.com/vert-x3/wiki/wiki) ⭐ 190 | 🐛 2 | 📅 2015-03-16 - Contains useful information about Vert.x.
 * [Issues](https://github.com/vert-x3/issues/issues) ⭐ 34 | 🐛 115 | 📅 2016-06-21 - Vert.x core issue tracker.
 * [User Group](https://groups.google.com/forum/?fromgroups#!forum/vertx) - Discuss all user issues related to *using* Vert.x.
 * [Developer Group](https://groups.google.com/forum/?fromgroups#!forum/vertx-dev) - A group for Vert.x core *developers* and *contributors*.
@@ -421,4 +421,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
