@@ -977,8 +977,8 @@
                 "id": 4604367,
                 "language": "Java",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-19T02:01:14Z",
-                "open_issues": 4,
+                "last_commit": "2026-09-20T06:09:02Z",
+                "open_issues": 3,
                 "owner": "sirixdb",
                 "repo": "sirix",
                 "stars": 1218,
@@ -3270,7 +3270,7 @@
             "open_issues": 307,
             "owner": "resilience4j",
             "repo": "resilience4j",
-            "stars": 10764,
+            "stars": 10765,
             "topics": [
               "bulkhead",
               "circuitbreaker",
@@ -4059,11 +4059,11 @@
             "id": 133134007,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-17T17:54:53Z",
-            "open_issues": 5749,
+            "last_commit": "2026-09-20T07:25:22Z",
+            "open_issues": 5750,
             "owner": "OpenAPITools",
             "repo": "openapi-generator",
-            "stars": 26753,
+            "stars": 26752,
             "topics": [
               "api",
               "api-client",
@@ -4371,7 +4371,7 @@
             "open_issues": 54,
             "owner": "knative",
             "repo": "docs",
-            "stars": 5090,
+            "stars": 5091,
             "topics": [
               "documentation",
               "faas",
@@ -5323,7 +5323,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T07:10:50.995Z",
+    "last_updated": "2026-09-20T07:35:56.679Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Vert.x resources, libraries, and other nice things.",
