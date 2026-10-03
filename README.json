@@ -73,7 +73,7 @@
             "open_issues": 149,
             "owner": "vert-x3",
             "repo": "vertx-web",
-            "stars": 1148,
+            "stars": 1147,
             "topics": [
               "client",
               "reactive",
@@ -946,8 +946,8 @@
                 "id": 491117246,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-27T05:08:45Z",
-                "open_issues": 16,
+                "last_commit": "2026-10-03T06:37:40Z",
+                "open_issues": 17,
                 "owner": "huanshankeji",
                 "repo": "exposed-vertx-sql-client",
                 "stars": 12,
@@ -979,8 +979,8 @@
                 "id": 4604367,
                 "language": "Java",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-03T03:58:45Z",
-                "open_issues": 5,
+                "last_commit": "2026-10-03T07:23:00Z",
+                "open_issues": 4,
                 "owner": "sirixdb",
                 "repo": "sirix",
                 "stars": 1218,
@@ -5325,7 +5325,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:16:47.007Z",
+    "last_updated": "2026-10-03T07:48:47.358Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Vert.x resources, libraries, and other nice things.",
